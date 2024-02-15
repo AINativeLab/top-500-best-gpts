@@ -11,6 +11,10 @@ jobs:
     permissions:
       contents: write
 
+    env:
+      TURSO_TOKEN: ${{ secrets.TURSO_TOKEN }}
+      TURSO_URL: ${{ secrets.TURSO_URL }}
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
