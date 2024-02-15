@@ -54,9 +54,9 @@ ${list.rows
       return `
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${
         one.name
-      }" src="${one.logo}"/>](${one.id})
+      }" src="${one.logo}"/>](https://chat.openai.com/g/${one.id}?ref=gptshunter)
 
-[**${one.name}**](${one.id}) \\
+[**${one.name}**](https://chat.openai.com/g/${one.id}?ref=gptshunter) \\
 No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)}
     `
     })
