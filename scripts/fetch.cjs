@@ -13,7 +13,11 @@ const db = createClient({
   authToken: process.env.TURSO_TOKEN
 })
 
-function ensureDirectoryExists(directoryPath) {
+const formater = new Intl.NumberFormat("en-US", {
+  notation: 'compact'
+})
+
+const ensureDirectoryExists = (directoryPath) => {
   if (!fs.existsSync(directoryPath)) {
     fs.mkdirSync(directoryPath, { recursive: true })
   }
@@ -24,7 +28,7 @@ function ensureDirectoryExists(directoryPath) {
     'select id, name, logo, chats, categories from gpt where is_404 = false order by chats desc, created_at desc limit 500'
   const list = await db.execute(sql)
 
-  let md = `# Top 500 GPTs on the GPT Store
+  const homeHeader = `# Top 500 GPTs on the GPT Store
 
   This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
   
@@ -38,11 +42,14 @@ function ensureDirectoryExists(directoryPath) {
     </a>
   </p>
   
-## Top 500 GPTs Ranked by conversations(${today})
-
 `
 
-  md += `${list.rows
+const homeTitle =  `## Top 500 GPTs Ranked by conversations(${today})`
+ 
+const archiveTitle = homeTitle.replace('##', '#')
+
+const md = `
+${list.rows
     .map((one, index) => {
       return `
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${
@@ -50,16 +57,16 @@ function ensureDirectoryExists(directoryPath) {
       }" src="${one.logo}"/>](${one.id})
 
 [**${one.name}**](${one.id}) \\
-No.${index + 1} ${one.chats ? '/' : ''} ${one.chats}
+No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)}
     `
     })
     .join('\n')}`
 
   ensureDirectoryExists(path.join(__dirname, `../archive/${today}/`))
-  fs.writeFileSync(path.join(__dirname, `../archive/${today}/README.MD`), md)
+  fs.writeFileSync(path.join(__dirname, `../archive/${today}/README.MD`), archiveTitle + md)
   fs.writeFileSync(
     path.join(__dirname, `../archive/${today}/raw.json`),
     JSON.stringify(list.rows, null, 2)
   )
-  fs.writeFileSync(path.join(__dirname, '../README.MD'), md)
+  fs.writeFileSync(path.join(__dirname, '../README.MD'), homeHeader + homeTitle + md)
 })()
