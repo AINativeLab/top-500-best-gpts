@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@libsql/client": "^0.4.3",
+    "dayjs": "^1.11.10"
+  }
+}

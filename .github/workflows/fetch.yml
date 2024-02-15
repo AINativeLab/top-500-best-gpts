@@ -1,0 +1,37 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - uses: actions/setup-node@v3
+    - name: Install dependencies
+      run: yarn
+
+    - name: Get Top GPTs
+      run: node scripts/fetch.cjs
+
+    - name: Commit files
+      run: |
+        git config --local user.email "i@mao.li"
+        git config --local user.name "airyland"
+        git add -A
+        DATE=$(date -u +"%Y-%m-%d")
+        git diff --quiet --staged || (git add data/ && git commit -m "Update GPTs data for $DATE")
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
