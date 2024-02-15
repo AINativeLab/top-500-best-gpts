@@ -32,7 +32,7 @@ jobs:
         git config --local user.name "airyland"
         git add -A
         DATE=$(date -u +"%Y-%m-%d")
-        git diff --quiet --staged || (git add data/ && git commit -m "Update GPTs data for $DATE")
+        git diff --quiet --staged || (git add . && git commit -m "Update GPTs data for $DATE")
 
     - name: Push changes
       uses: ad-m/github-push-action@master
