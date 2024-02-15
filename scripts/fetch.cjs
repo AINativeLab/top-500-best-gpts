@@ -66,7 +66,14 @@ No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)}
   fs.writeFileSync(path.join(__dirname, `../archive/${today}/README.MD`), archiveTitle + md)
   fs.writeFileSync(
     path.join(__dirname, `../archive/${today}/raw.json`),
-    JSON.stringify(list.rows, null, 2)
+    JSON.stringify(list.rows.map(one => {
+      const _one = { ...one }
+      delete _one.logo
+      if (_one.categories) {
+        _one.categories = JSON.parse(_one.categories)
+      }
+      return _one
+    }), null, 2)
   )
   fs.writeFileSync(path.join(__dirname, '../README.MD'), homeHeader + homeTitle + md)
 })()
