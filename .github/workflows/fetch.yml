@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '0 10 * * *'
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
