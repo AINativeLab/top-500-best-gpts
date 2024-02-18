@@ -40,6 +40,14 @@
     ]
   },
   {
+    "id": "g-gFFsdkfMC",
+    "name": "Cartoonize Yourself",
+    "chats": 600000,
+    "categories": [
+      "dalle"
+    ]
+  },
+  {
     "id": "g-B3hgivKK9",
     "name": "Write For Me",
     "chats": 600000,
@@ -54,19 +62,19 @@
     ]
   },
   {
-    "id": "g-gFFsdkfMC",
-    "name": "Cartoonize Yourself",
-    "chats": 500000,
-    "categories": [
-      "other"
-    ]
-  },
-  {
     "id": "g-5QhhdsfDj",
     "name": "Diagrams: Show Me",
     "chats": 400000,
     "categories": [
       "productivity"
+    ]
+  },
+  {
+    "id": "g-2azCVmXdy",
+    "name": "Humanizer Pro",
+    "chats": 400000,
+    "categories": [
+      "writing"
     ]
   },
   {
@@ -83,14 +91,6 @@
     "chats": 400000,
     "categories": [
       "research"
-    ]
-  },
-  {
-    "id": "g-2azCVmXdy",
-    "name": "Humanizer Pro",
-    "chats": 300000,
-    "categories": [
-      "writing"
     ]
   },
   {
@@ -120,6 +120,14 @@
   {
     "id": "g-h8l4uLHFQ",
     "name": "Video Maker by invideo AI",
+    "chats": 200000,
+    "categories": [
+      "productivity"
+    ]
+  },
+  {
+    "id": "g-Vklr0BddT",
+    "name": "Slide Maker",
     "chats": 200000,
     "categories": [
       "productivity"
@@ -164,14 +172,6 @@
     ]
   },
   {
-    "id": "g-4MDJvo2TJ",
-    "name": "Sora",
-    "chats": 100000,
-    "categories": [
-      "productivity"
-    ]
-  },
-  {
     "id": "g-hcqdAuSMv",
     "name": "KAYAK - Flights, Hotels & Cars",
     "chats": 100000,
@@ -210,6 +210,14 @@
     "categories": []
   },
   {
+    "id": "g-tc0eHXdgb",
+    "name": "MJ Prompt Generator (V6)",
+    "chats": 100000,
+    "categories": [
+      "dalle"
+    ]
+  },
+  {
     "id": "g-cKXjWStaE",
     "name": "Python",
     "chats": 100000,
@@ -223,14 +231,6 @@
     "chats": 100000,
     "categories": [
       "other"
-    ]
-  },
-  {
-    "id": "g-Vklr0BddT",
-    "name": "Slide Maker",
-    "chats": 100000,
-    "categories": [
-      "productivity"
     ]
   },
   {
@@ -397,14 +397,6 @@
     "chats": 50000,
     "categories": [
       "lifestyle"
-    ]
-  },
-  {
-    "id": "g-tc0eHXdgb",
-    "name": "MJ Prompt Generator (V6)",
-    "chats": 50000,
-    "categories": [
-      "dalle"
     ]
   },
   {
@@ -585,14 +577,6 @@
     "chats": 50000,
     "categories": [
       "research"
-    ]
-  },
-  {
-    "id": "g-MGmgtZftb",
-    "name": "0penA| Sora",
-    "chats": 25000,
-    "categories": [
-      "other"
     ]
   },
   {
@@ -777,6 +761,14 @@
     "chats": 25000,
     "categories": [
       "writing"
+    ]
+  },
+  {
+    "id": "g-Gpu8ZMR52",
+    "name": "CapCut VideoGPT",
+    "chats": 25000,
+    "categories": [
+      "productivity"
     ]
   },
   {
@@ -1078,6 +1070,14 @@
     ]
   },
   {
+    "id": "g-IBzIX0KyE",
+    "name": "한국 최저가 쇼핑 검색 - 네이버, 쿠팡, 11번가, 지마켓, 신세계, 롯데 가격 비교",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ]
+  },
+  {
     "id": "g-rr7AytfKH",
     "name": "math",
     "chats": 10000,
@@ -1156,6 +1156,12 @@
     "categories": [
       "productivity"
     ]
+  },
+  {
+    "id": "g-xOwzBjKMY",
+    "name": "BrowsingGPT",
+    "chats": 10000,
+    "categories": []
   },
   {
     "id": "g-hQdMJ5mJh",
@@ -1340,6 +1346,14 @@
     ]
   },
   {
+    "id": "g-a6Fpz8NRb",
+    "name": "Humanize AI",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ]
+  },
+  {
     "id": "g-755Q51FWA",
     "name": "ExcelGPT",
     "chats": 10000,
@@ -1445,7 +1459,7 @@
   },
   {
     "id": "g-r5EnUF9MD",
-    "name": "Social Media Content Creator Generator: Drilio",
+    "name": "Social Media",
     "chats": 10000,
     "categories": [
       "productivity"
@@ -1488,11 +1502,11 @@
     "categories": []
   },
   {
-    "id": "g-Gpu8ZMR52",
-    "name": "CapCut VideoGPT",
+    "id": "g-MTjrTCeoU",
+    "name": "GolfGPT",
     "chats": 10000,
     "categories": [
-      "productivity"
+      "other"
     ]
   },
   {
@@ -1818,6 +1832,14 @@
     ]
   },
   {
+    "id": "g-ReiZ29H4I",
+    "name": "Slide Generator",
+    "chats": 5000,
+    "categories": [
+      "productivity"
+    ]
+  },
+  {
     "id": "g-fTg3RNi6M",
     "name": "자소설 - 자기소개서 / 자소서 작성",
     "chats": 5000,
@@ -2002,6 +2024,14 @@
     ]
   },
   {
+    "id": "g-AtI7SyQY2",
+    "name": "Research+",
+    "chats": 5000,
+    "categories": [
+      "research"
+    ]
+  },
+  {
     "id": "g-SRYxzqvwR",
     "name": "Legal+",
     "chats": 5000,
@@ -2018,6 +2048,20 @@
   {
     "id": "g-sMWHIuCfv",
     "name": "Power Point",
+    "chats": 5000,
+    "categories": []
+  },
+  {
+    "id": "g-n9GhKENCZ",
+    "name": "Pictory GPT for Videos",
+    "chats": 5000,
+    "categories": [
+      "productivity"
+    ]
+  },
+  {
+    "id": "g-ktOkQRmvl",
+    "name": "Math Solver",
     "chats": 5000,
     "categories": []
   },
@@ -2041,6 +2085,14 @@
     "chats": 5000,
     "categories": [
       "programming"
+    ]
+  },
+  {
+    "id": "g-H73sLSP2I",
+    "name": "Social Media",
+    "chats": 5000,
+    "categories": [
+      "productivity"
     ]
   },
   {
@@ -2076,14 +2128,6 @@
     ]
   },
   {
-    "id": "g-IBzIX0KyE",
-    "name": "한국 최저가 쇼핑 검색 - 네이버, 쿠팡, 11번가, 지마켓, 신세계, 롯데 가격 비교",
-    "chats": 5000,
-    "categories": [
-      "lifestyle"
-    ]
-  },
-  {
     "id": "g-oruAyNyUY",
     "name": "Stock-GPT: Stock Price & Market Insights",
     "chats": 5000,
@@ -2109,7 +2153,7 @@
   },
   {
     "id": "g-MJYELDDFg",
-    "name": "AI Voice Generator",
+    "name": "AI Voice Generator: Text to Speech",
     "chats": 5000,
     "categories": [
       "productivity"
@@ -2176,12 +2220,6 @@
     "categories": [
       "other"
     ]
-  },
-  {
-    "id": "g-xOwzBjKMY",
-    "name": "BrowsingGPT",
-    "chats": 5000,
-    "categories": []
   },
   {
     "id": "g-GZSBEf8ju",
@@ -2352,6 +2390,12 @@
     ]
   },
   {
+    "id": "g-TekJE75Us",
+    "name": "Instantly.ai - Cold Email Critique",
+    "chats": 5000,
+    "categories": []
+  },
+  {
     "id": "g-FtfRzXHxO",
     "name": "チャット GPT 日本語",
     "chats": 5000,
@@ -2456,6 +2500,14 @@
     "categories": []
   },
   {
+    "id": "g-SdXPspagG",
+    "name": "Merch on Demand / Print On Demand Shirt Designer",
+    "chats": 5000,
+    "categories": [
+      "dalle"
+    ]
+  },
+  {
     "id": "g-jzyVE3qaS",
     "name": "Intellectual.AI",
     "chats": 5000,
@@ -2468,14 +2520,6 @@
     "name": "Data Analysis & Report AI",
     "chats": 5000,
     "categories": []
-  },
-  {
-    "id": "g-a6Fpz8NRb",
-    "name": "Humanize AI",
-    "chats": 5000,
-    "categories": [
-      "writing"
-    ]
   },
   {
     "id": "g-r20wcaSFn",
@@ -2664,14 +2708,6 @@
     "name": "Accounting GPT",
     "chats": 5000,
     "categories": []
-  },
-  {
-    "id": "g-MTjrTCeoU",
-    "name": "GolfGPT",
-    "chats": 5000,
-    "categories": [
-      "other"
-    ]
   },
   {
     "id": "g-MeBCF77Rh",
@@ -3078,6 +3114,14 @@
     ]
   },
   {
+    "id": "g-Y2LJdbTJl",
+    "name": "Swift Developer",
+    "chats": 5000,
+    "categories": [
+      "programming"
+    ]
+  },
+  {
     "id": "g-XTOuIQ6Tz",
     "name": "Laravel GPT",
     "chats": 5000,
@@ -3276,6 +3320,22 @@
     ]
   },
   {
+    "id": "g-w2D4rqH0d",
+    "name": "React",
+    "chats": 1000,
+    "categories": [
+      "programming"
+    ]
+  },
+  {
+    "id": "g-I4LnRz1BV",
+    "name": "Sora",
+    "chats": 1000,
+    "categories": [
+      "writing"
+    ]
+  },
+  {
     "id": "g-2ND93c6u2",
     "name": "Laravel Copilot",
     "chats": 1000,
@@ -3289,14 +3349,6 @@
     "chats": 1000,
     "categories": [
       "writing"
-    ]
-  },
-  {
-    "id": "g-ReiZ29H4I",
-    "name": "Slide Generator",
-    "chats": 1000,
-    "categories": [
-      "education"
     ]
   },
   {
@@ -3380,14 +3432,6 @@
     ]
   },
   {
-    "id": "g-8gj9tYMWN",
-    "name": "Sor a",
-    "chats": 1000,
-    "categories": [
-      "productivity"
-    ]
-  },
-  {
     "id": "g-lO06T0au8",
     "name": "Stock Photo Keywords",
     "chats": 1000,
@@ -3397,26 +3441,10 @@
   },
   {
     "id": "g-lQ3LFXCwE",
-    "name": "SORA DALLE",
+    "name": "SORFLIX",
     "chats": 1000,
     "categories": [
       "other"
-    ]
-  },
-  {
-    "id": "g-k5cBui2gv",
-    "name": "Sora Prompt Generator",
-    "chats": 1000,
-    "categories": [
-      "writing"
-    ]
-  },
-  {
-    "id": "g-P48n6viOE",
-    "name": "Sora Expert Text to Video Prompt Designer",
-    "chats": 1000,
-    "categories": [
-      "productivity"
     ]
   },
   {
@@ -3441,6 +3469,14 @@
     "chats": 1000,
     "categories": [
       "writing"
+    ]
+  },
+  {
+    "id": "g-fjnI5Cr8i",
+    "name": "유튜브 요약 왕 👉 3줄 요약 & 재생성",
+    "chats": 1000,
+    "categories": [
+      "productivity"
     ]
   },
   {
@@ -3696,6 +3732,14 @@
     ]
   },
   {
+    "id": "g-8VeMlAnuD",
+    "name": "Anime",
+    "chats": 1000,
+    "categories": [
+      "dalle"
+    ]
+  },
+  {
     "id": "g-btQB9XQpz",
     "name": "Flyer Designer",
     "chats": 1000,
@@ -3751,54 +3795,6 @@
     "chats": 1000,
     "categories": [
       "writing"
-    ]
-  },
-  {
-    "id": "g-lHyTLJaCX",
-    "name": "Poker",
-    "chats": 1000,
-    "categories": [
-      "other"
-    ]
-  },
-  {
-    "id": "g-KWYeI4gvM",
-    "name": "Signature Watermark Generator",
-    "chats": 1000,
-    "categories": [
-      "dalle"
-    ]
-  },
-  {
-    "id": "g-s3xZ7IdBh",
-    "name": "Pisces@Brag Master",
-    "chats": 1000,
-    "categories": [
-      "other"
-    ]
-  },
-  {
-    "id": "g-xXh9G6oac",
-    "name": "Econ Teacher",
-    "chats": 1000,
-    "categories": [
-      "other"
-    ]
-  },
-  {
-    "id": "g-m6EDiXVmH",
-    "name": "EN-ES-EN Traductor",
-    "chats": 1000,
-    "categories": [
-      "other"
-    ]
-  },
-  {
-    "id": "g-HUe3xQK7h",
-    "name": "God of Linear Algebra",
-    "chats": 1000,
-    "categories": [
-      "other"
     ]
   }
 ]
