@@ -25,7 +25,7 @@ const ensureDirectoryExists = (directoryPath) => {
 
 ;(async () => {
   const sql =
-    'select id, name, logo, chats, categories from gpt where is_404 = false order by chats desc, created_at desc limit 500'
+    'select id, name, logo, chats, categories, review_average from gpt where is_404 = false order by chats desc, created_at desc limit 500'
   const list = await db.execute(sql)
 
   const homeHeader = `# Top 500 GPTs on the GPT Store
@@ -33,7 +33,7 @@ const ensureDirectoryExists = (directoryPath) => {
   This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
   
   <p align="center">
-  Powered by
+  ★ Powered by <a target="_blank" href="https://gptshunter.com/?utm_source=top-500-best-gpts">GPTsHunter.com</a> ★
   </p>
   
   <p align="center">
@@ -57,7 +57,7 @@ ${list.rows
       }" src="${one.logo}"/>](https://chat.openai.com/g/${one.id}?ref=gptshunter)
 
 [**${one.name}**](https://chat.openai.com/g/${one.id}?ref=gptshunter) \\
-No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)}
+No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)} ${one.review_average ? '/ ★' : ''} ${one.review_average ? (one.review_average * 1).toFixed(1) : ''}
     `
     })
     .join('\n')}`
