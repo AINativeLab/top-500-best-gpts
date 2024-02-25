@@ -33,7 +33,7 @@ const ensureDirectoryExists = (directoryPath) => {
   This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
   
   <p align="center">
-  ★ Powered by <a target="_blank" href="https://gptshunter.com/?utm_source=top-500-best-gpts">GPTsHunter.com</a> ★
+  ★ Powered by <a target="_blank" href="https://www.gptshunter.com/?utm_source=top-500-best-gpts">GPTsHunter.com</a> ★
   </p>
   
   <p align="center">
