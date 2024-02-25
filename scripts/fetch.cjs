@@ -28,7 +28,7 @@ const ensureDirectoryExists = (directoryPath) => {
     'select id, name, logo, chats, categories, review_average from gpt where is_404 = false order by chats desc, created_at desc limit 500'
   const list = await db.execute(sql)
 
-  const homeHeader = `# Top 500 GPTs on the GPT Store
+  const homeHeader = `# Top 500 Best GPTs on the GPT Store
 
   This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
   
@@ -44,7 +44,7 @@ const ensureDirectoryExists = (directoryPath) => {
   
 `
 
-const homeTitle =  `## Top 500 GPTs Ranked by conversations(${today})`
+const homeTitle =  `## Top 500 Best GPTs Ranked by conversations(${today})`
  
 const archiveTitle = homeTitle.replace('##', '#')
 
