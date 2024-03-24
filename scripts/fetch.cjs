@@ -25,7 +25,7 @@ const ensureDirectoryExists = (directoryPath) => {
 
 ;(async () => {
   const sql =
-    'select id, name, logo, chats, categories, review_average, review_count from gpt where is_404 = false order by chats desc, created_at desc limit 500'
+    'select id, name, logo, chats, categories, review_average, review_count from gpt where is_404 = false order by chats desc, review_average desc limit 500'
   const list = await db.execute(sql)
 
   const homeHeader = `# Top 500 Best GPTs on the GPT Store
