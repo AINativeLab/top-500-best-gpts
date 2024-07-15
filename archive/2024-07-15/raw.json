@@ -1,0 +1,4962 @@
+[
+  {
+    "id": "g-pmuQfob8d",
+    "name": "image generator",
+    "chats": 6000000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.616,
+    "review_count": 176426
+  },
+  {
+    "id": "g-bo0FiWLY7",
+    "name": "Consensus",
+    "chats": 5000000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.305,
+    "review_count": 77489
+  },
+  {
+    "id": "g-B3hgivKK9",
+    "name": "Write For Me",
+    "chats": 5000000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.245,
+    "review_count": 121572
+  },
+  {
+    "id": "g-n7Rs0IK86",
+    "name": "Grimoire",
+    "chats": 2000000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.374,
+    "review_count": 25436
+  },
+  {
+    "id": "g-kZ0eYXlJe",
+    "name": "Scholar GPT",
+    "chats": 2000000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.186,
+    "review_count": 104563
+  },
+  {
+    "id": "g-2DQzU5UZl",
+    "name": "Code Copilot",
+    "chats": 2000000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.17,
+    "review_count": 64473
+  },
+  {
+    "id": "g-2azCVmXdy",
+    "name": "AI Humanizer",
+    "chats": 2000000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.84,
+    "review_count": 35066
+  },
+  {
+    "id": "g-gFt1ghYJl",
+    "name": "Logo Creator",
+    "chats": 2000000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.504,
+    "review_count": 155153
+  },
+  {
+    "id": "g-cKXjWStaE",
+    "name": "Python",
+    "chats": 1000000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.225,
+    "review_count": 46911
+  },
+  {
+    "id": "g-V2KIUZSj0",
+    "name": "PDF Ai PDF",
+    "chats": 1000000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.137,
+    "review_count": 31737
+  },
+  {
+    "id": "g-L2HknCZTC",
+    "name": "Scholar AI",
+    "chats": 1000000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.096,
+    "review_count": 20949
+  },
+  {
+    "id": "g-UfFxTDMxq",
+    "name": "AskYourPDF Research Assistant",
+    "chats": 1000000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.078,
+    "review_count": 20428
+  },
+  {
+    "id": "g-Hkqnd7mFT",
+    "name": "Video GPT by VEED",
+    "chats": 1000000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.959,
+    "review_count": 41256
+  },
+  {
+    "id": "g-5QhhdsfDj",
+    "name": "Diagrams ‹Show Me› for Presentations, Code, Excel",
+    "chats": 1000000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.926,
+    "review_count": 38247
+  },
+  {
+    "id": "g-gFFsdkfMC",
+    "name": "Cartoonize Yourself",
+    "chats": 1000000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.469,
+    "review_count": 42643
+  },
+  {
+    "id": "g-0S5FXLyFN",
+    "name": "Wolfram",
+    "chats": 900000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.159,
+    "review_count": 23341
+  },
+  {
+    "id": "g-vI2kaiM9N",
+    "name": "Whimsical Diagrams",
+    "chats": 800000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.116,
+    "review_count": 16945
+  },
+  {
+    "id": "g-h8l4uLHFQ",
+    "name": "Video AI",
+    "chats": 700000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.16,
+    "review_count": 14495
+  },
+  {
+    "id": "g-GbLbctpPz",
+    "name": "Universal Primer",
+    "chats": 600000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.537,
+    "review_count": 18785
+  },
+  {
+    "id": "g-NgAcklHd8",
+    "name": "SciSpace",
+    "chats": 600000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.262,
+    "review_count": 18173
+  },
+  {
+    "id": "g-odWlfAKWM",
+    "name": "math",
+    "chats": 600000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.186,
+    "review_count": 22144
+  },
+  {
+    "id": "g-cJtHaGnyo",
+    "name": "Presentation and Slides GPT: PowerPoints, PDFs",
+    "chats": 600000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.828,
+    "review_count": 25791
+  },
+  {
+    "id": "g-TzI2BlJPT",
+    "name": "DeepGame",
+    "chats": 500000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.534,
+    "review_count": 11870
+  },
+  {
+    "id": "g-Vklr0BddT",
+    "name": "Slide Maker: PowerPoints, Presentations",
+    "chats": 500000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.597,
+    "review_count": 14201
+  },
+  {
+    "id": "g-9qWC0oyBd",
+    "name": "Super Describe",
+    "chats": 500000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.566,
+    "review_count": 7800
+  },
+  {
+    "id": "g-q9wdIq7OQ",
+    "name": "Photo Realistic GPT",
+    "chats": 500000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.545,
+    "review_count": 14972
+  },
+  {
+    "id": "g-I9f8LxD5P",
+    "name": "Video Maker",
+    "chats": 500000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.438,
+    "review_count": 16431
+  },
+  {
+    "id": "g-ZctQCI6MG",
+    "name": "Photo Multiverse",
+    "chats": 500000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.427,
+    "review_count": 11045
+  },
+  {
+    "id": "g-pCq5xaCri",
+    "name": "LOGO",
+    "chats": 500000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.301,
+    "review_count": 26660
+  },
+  {
+    "id": "g-pcoHeADVw",
+    "name": "Adobe Express",
+    "chats": 500000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.028,
+    "review_count": 6462
+  },
+  {
+    "id": "g-GvcYCKPIH",
+    "name": "Video Summarizer✏️🌐🔝🚀",
+    "chats": 400000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.468,
+    "review_count": 10670
+  },
+  {
+    "id": "g-hRCqiqVlM",
+    "name": "Tutor Me",
+    "chats": 400000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.466,
+    "review_count": 22922
+  },
+  {
+    "id": "g-MrgKnTZbc",
+    "name": "Resume",
+    "chats": 400000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.415,
+    "review_count": 19445
+  },
+  {
+    "id": "g-WxckXARTP",
+    "name": "Astrology Birth Chart GPT",
+    "chats": 400000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.332,
+    "review_count": 10977
+  },
+  {
+    "id": "g-jCYeXl5xh",
+    "name": "NEO - Ultimate AI",
+    "chats": 400000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.202,
+    "review_count": 1920
+  },
+  {
+    "id": "g-9YeZz6m6k",
+    "name": "Math Solver",
+    "chats": 400000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.158,
+    "review_count": 11753
+  },
+  {
+    "id": "g-szDdJUX9V",
+    "name": "Finance Wizard",
+    "chats": 400000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.027,
+    "review_count": 7454
+  },
+  {
+    "id": "g-7CKojumSX",
+    "name": "Glibatree Art Designer",
+    "chats": 400000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.023,
+    "review_count": 6461
+  },
+  {
+    "id": "g-2Eo3NxuS7",
+    "name": "DesignerGPT",
+    "chats": 400000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.789,
+    "review_count": 6375
+  },
+  {
+    "id": "g-a9JivI0y2",
+    "name": "Consistent Character GPT👉🏼 Fast & High Quality⚡️",
+    "chats": 400000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.76,
+    "review_count": 12391
+  },
+  {
+    "id": "g-TiS7zU3kO",
+    "name": "AI Humanizer Pro",
+    "chats": 400000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.672,
+    "review_count": 8812
+  },
+  {
+    "id": "g-5bNPpaVZy",
+    "name": "Translate GPT",
+    "chats": 300000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.26,
+    "review_count": 6388
+  },
+  {
+    "id": "g-ySbhcRtru",
+    "name": "Fully SEO Optimized Article including FAQ's",
+    "chats": 300000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.231,
+    "review_count": 4825
+  },
+  {
+    "id": "g-cksUvVWar",
+    "name": "code: python java c html sql javascript react web+",
+    "chats": 300000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.176,
+    "review_count": 14520
+  },
+  {
+    "id": "g-Ji2QOyMml",
+    "name": "Copywriter GPT - Marketing, Branding, Ads",
+    "chats": 300000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.135,
+    "review_count": 13824
+  },
+  {
+    "id": "g-FvT4UOsoA",
+    "name": "챗GPT",
+    "chats": 300000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.117,
+    "review_count": 8977
+  },
+  {
+    "id": "g-a6Fpz8NRb",
+    "name": "Humanize AI",
+    "chats": 300000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.994,
+    "review_count": 10669
+  },
+  {
+    "id": "g-hcqdAuSMv",
+    "name": "KAYAK - Flights, Hotels & Cars",
+    "chats": 300000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.866,
+    "review_count": 5056
+  },
+  {
+    "id": "g-1zMekbWTA",
+    "name": "Tattoo GPT",
+    "chats": 300000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.684,
+    "review_count": 8698
+  },
+  {
+    "id": "g-LQHhJCXhW",
+    "name": "AutoExpert (Chat)",
+    "chats": 200000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.512,
+    "review_count": 1801
+  },
+  {
+    "id": "g-z77yDe7Vu",
+    "name": "Books",
+    "chats": 200000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.371,
+    "review_count": 2665
+  },
+  {
+    "id": "g-E7eSRUHy6",
+    "name": "Travel Guide",
+    "chats": 200000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.367,
+    "review_count": 7590
+  },
+  {
+    "id": "g-g24EzkDta",
+    "name": "Voxscript",
+    "chats": 200000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.366,
+    "review_count": 5626
+  },
+  {
+    "id": "g-RR3RCyK8N",
+    "name": "Language Teacher | Ms. Smith",
+    "chats": 200000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.351,
+    "review_count": 14134
+  },
+  {
+    "id": "g-82ALdp8Nj",
+    "name": "Automated Writer",
+    "chats": 200000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.278,
+    "review_count": 8390
+  },
+  {
+    "id": "g-WP1diWHRl",
+    "name": "physics",
+    "chats": 200000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.254,
+    "review_count": 5402
+  },
+  {
+    "id": "g-Hdq2AC858",
+    "name": "Link Reader",
+    "chats": 200000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.238,
+    "review_count": 2944
+  },
+  {
+    "id": "g-h0lbLuFF1",
+    "name": "ElevenLabs Text To Speech",
+    "chats": 200000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.143,
+    "review_count": 6425
+  },
+  {
+    "id": "g-pTF23RJ6f",
+    "name": "AutoExpert (Dev)",
+    "chats": 200000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.122,
+    "review_count": 2092
+  },
+  {
+    "id": "g-k3IqoCe1l",
+    "name": "Code Generator",
+    "chats": 200000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.104,
+    "review_count": 5758
+  },
+  {
+    "id": "g-iYSeH3EAI",
+    "name": "Website Generator",
+    "chats": 200000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.987,
+    "review_count": 11118
+  },
+  {
+    "id": "g-jBdvgesNC",
+    "name": "Diagrams & Data: Research, Analyze, Visualize",
+    "chats": 200000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.879,
+    "review_count": 11844
+  },
+  {
+    "id": "g-xc7kwwGjB",
+    "name": "Web Browser",
+    "chats": 200000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.842,
+    "review_count": 5382
+  },
+  {
+    "id": "g-odvZ36Y1H",
+    "name": "DALL ·  3 Ultra: image & art generator + editor",
+    "chats": 200000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.716,
+    "review_count": 15447
+  },
+  {
+    "id": "g-SIE5101qP",
+    "name": "Image Edit and img2img",
+    "chats": 200000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.42,
+    "review_count": 1708
+  },
+  {
+    "id": "g-CsdwU23wt",
+    "name": "Rizz GPT",
+    "chats": 200000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.288,
+    "review_count": 2067
+  },
+  {
+    "id": "g-RuhDS8mbd",
+    "name": "22.500+ Best Custom GPTs",
+    "chats": 200000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.276,
+    "review_count": 352
+  },
+  {
+    "id": "g-eiZWZS9lY",
+    "name": "Summarizer V2",
+    "chats": 100000,
+    "categories": [],
+    "review_average": 5,
+    "review_count": 1
+  },
+  {
+    "id": "g-9PKhaweyb",
+    "name": "Mr. Ranedeer",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.625,
+    "review_count": 2380
+  },
+  {
+    "id": "g-ipOIcM229",
+    "name": "Fitness, Workout & Diet - PhD Coach",
+    "chats": 100000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.565,
+    "review_count": 6116
+  },
+  {
+    "id": "g-HxPrv1p8v",
+    "name": "Code Tutor",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.467,
+    "review_count": 1845
+  },
+  {
+    "id": "g-J0FYgDhN5",
+    "name": "Software Architect GPT",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.451,
+    "review_count": 7535
+  },
+  {
+    "id": "g-OhCVT2jDy",
+    "name": "Master Interview🚀",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.435,
+    "review_count": 1691
+  },
+  {
+    "id": "g-UPuGbvUJn",
+    "name": "论文润色大师",
+    "chats": 100000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.409,
+    "review_count": 1107
+  },
+  {
+    "id": "g-1E7Z6Q2XF",
+    "name": "GPT Chat Español",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.398,
+    "review_count": 2502
+  },
+  {
+    "id": "g-xh1OJxj15",
+    "name": "Economics Econ",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.386,
+    "review_count": 2049
+  },
+  {
+    "id": "g-Q1LwuGocS",
+    "name": "Statistics Stats",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.379,
+    "review_count": 2368
+  },
+  {
+    "id": "g-7C0wg9CMN",
+    "name": "Book Creator Guide",
+    "chats": 100000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.369,
+    "review_count": 8982
+  },
+  {
+    "id": "g-SLkL4uUYY",
+    "name": "Email",
+    "chats": 100000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.366,
+    "review_count": 1476
+  },
+  {
+    "id": "g-qqTuUWsBY",
+    "name": "CrewAI Assistant",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.365,
+    "review_count": 2628
+  },
+  {
+    "id": "g-35kDoPvW7",
+    "name": "Personal Color Analysis",
+    "chats": 100000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.351,
+    "review_count": 2648
+  },
+  {
+    "id": "g-82dEDeoN3",
+    "name": "Murder Mystery Mayhem - Demo",
+    "chats": 100000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.336,
+    "review_count": 2650
+  },
+  {
+    "id": "g-PWizFQk8C",
+    "name": "Blog Expert - SEO Blogs made easy!",
+    "chats": 100000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.336,
+    "review_count": 3256
+  },
+  {
+    "id": "g-rCcy1ZWVh",
+    "name": "中文paraphrase",
+    "chats": 100000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.333,
+    "review_count": 15
+  },
+  {
+    "id": "g-qfoOICq1l",
+    "name": "Prompt Professor",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.327,
+    "review_count": 2132
+  },
+  {
+    "id": "g-m5lMeGifF",
+    "name": "SQL Expert",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.326,
+    "review_count": 7146
+  },
+  {
+    "id": "g-vpdGZagEo",
+    "name": "更勤奋更聪明的GPT4",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.312,
+    "review_count": 2042
+  },
+  {
+    "id": "g-wmxtM9sVs",
+    "name": "Finance & Trading: Stock, Crypto, Forex ~Investing",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.302,
+    "review_count": 1900
+  },
+  {
+    "id": "g-TfiZbdLM0",
+    "name": "Machine Learning",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.296,
+    "review_count": 3091
+  },
+  {
+    "id": "g-DtjWjSDiv",
+    "name": "MARKETING",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.295,
+    "review_count": 4980
+  },
+  {
+    "id": "g-3pqrO7KSp",
+    "name": "Chemistry Chem",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.293,
+    "review_count": 1871
+  },
+  {
+    "id": "g-hxDOCBQrs",
+    "name": "Paper Interpreter (Japanese)",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.275,
+    "review_count": 1879
+  },
+  {
+    "id": "g-F00faAwkE",
+    "name": "Open A I Gpt 3.5",
+    "chats": 100000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.239,
+    "review_count": 1205
+  },
+  {
+    "id": "g-cZPwvslfA",
+    "name": "Flutter",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.236,
+    "review_count": 1819
+  },
+  {
+    "id": "g-QhTV4OrrZ",
+    "name": "AI Tutor",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.202,
+    "review_count": 371
+  },
+  {
+    "id": "g-7RJghLmOO",
+    "name": "Accounting GPT",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.194,
+    "review_count": 2739
+  },
+  {
+    "id": "g-Lq7UjNxjV",
+    "name": "论文写手",
+    "chats": 100000,
+    "categories": [],
+    "review_average": 4.193,
+    "review_count": 2546
+  },
+  {
+    "id": "g-TgjKDuQwZ",
+    "name": "R Wizard",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.188,
+    "review_count": 3498
+  },
+  {
+    "id": "g-jIgQDiQuT",
+    "name": "Python Copilot (v2)",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.18,
+    "review_count": 1357
+  },
+  {
+    "id": "g-tb2UpZTEH",
+    "name": "Cover Letter",
+    "chats": 100000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.13,
+    "review_count": 3364
+  },
+  {
+    "id": "g-vd364I1Zi",
+    "name": "Mid Journey V6 Prompt Creator",
+    "chats": 100000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.12,
+    "review_count": 3870
+  },
+  {
+    "id": "g-mzFm1dKjW",
+    "name": "чат GPT",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.116,
+    "review_count": 799
+  },
+  {
+    "id": "g-cStsvQbjd",
+    "name": "CV Writer - the CV Expert",
+    "chats": 100000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.114,
+    "review_count": 5647
+  },
+  {
+    "id": "g-rsuRKk1MX",
+    "name": "PDF Insight",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.111,
+    "review_count": 3180
+  },
+  {
+    "id": "g-veSrMmasJ",
+    "name": "Keymate AI Search & Browse with Linked Memory",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.09,
+    "review_count": 1453
+  },
+  {
+    "id": "g-RfusSJbgM",
+    "name": "超级PPT生成（Super PPT）",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.08,
+    "review_count": 5930
+  },
+  {
+    "id": "g-3s6SJ5V7S",
+    "name": "AskTheCode - Git Companion",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.079,
+    "review_count": 2930
+  },
+  {
+    "id": "g-YAgNxPJEq",
+    "name": "AutoExpert (Academic)",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.061,
+    "review_count": 607
+  },
+  {
+    "id": "g-QSh6KHL3S",
+    "name": "PDF Reader",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.011,
+    "review_count": 5717
+  },
+  {
+    "id": "g-FtfRzXHxO",
+    "name": "チャット GPT 日本語",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.98,
+    "review_count": 1764
+  },
+  {
+    "id": "g-PGPnMa4Ph",
+    "name": "日本語 | ログイン 🇯🇵",
+    "chats": 100000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.971,
+    "review_count": 5137
+  },
+  {
+    "id": "g-hz8Pw1quF",
+    "name": "Screenshot To Code GPT",
+    "chats": 100000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.955,
+    "review_count": 978
+  },
+  {
+    "id": "g-MJYELDDFg",
+    "name": "AI Voice Generator: Text to Speech",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.937,
+    "review_count": 3613
+  },
+  {
+    "id": "g-fL6Xsk6UU",
+    "name": "Free YouTube Summarizer",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.894,
+    "review_count": 3775
+  },
+  {
+    "id": "g-GrshPDvS3",
+    "name": "SEO",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.889,
+    "review_count": 1480
+  },
+  {
+    "id": "g-R6VqLNHFM",
+    "name": "Excel GPT",
+    "chats": 100000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.864,
+    "review_count": 10141
+  },
+  {
+    "id": "g-M0NO10kiB",
+    "name": "Japanese-Japan 日本語",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.848,
+    "review_count": 1978
+  },
+  {
+    "id": "g-txEiClD5G",
+    "name": "Song Maker",
+    "chats": 100000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.804,
+    "review_count": 3449
+  },
+  {
+    "id": "g-Gt6Z8pqWF",
+    "name": "Doc Maker: PDFs, Resumes, PowerPoints, Excel",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.681,
+    "review_count": 2971
+  },
+  {
+    "id": "g-z61XG6t54",
+    "name": "LogoGPT",
+    "chats": 100000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.442,
+    "review_count": 1515
+  },
+  {
+    "id": "g-Pw20OIj6o",
+    "name": "MapGPT",
+    "chats": 100000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.421,
+    "review_count": 1971
+  },
+  {
+    "id": "g-g0efUwWgG",
+    "name": "Image Copy Machine GPT",
+    "chats": 100000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.366,
+    "review_count": 870
+  },
+  {
+    "id": "g-a83ktVq7n",
+    "name": "AI Voice Generator",
+    "chats": 100000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.219,
+    "review_count": 530
+  },
+  {
+    "id": "g-JoDS4Ncdi",
+    "name": "super-rephrase-soft",
+    "chats": 100000,
+    "categories": [
+      "other"
+    ],
+    "review_average": null,
+    "review_count": 0
+  },
+  {
+    "id": "g-9yTsSi0pa",
+    "name": "PlusAI",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 5,
+    "review_count": 21
+  },
+  {
+    "id": "g-Vs7XAiVHS",
+    "name": "Indonesia GPT Chat",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.762,
+    "review_count": 42
+  },
+  {
+    "id": "g-uBhKUJJTl",
+    "name": "科技文章翻译",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.628,
+    "review_count": 567
+  },
+  {
+    "id": "g-byG64QRaW",
+    "name": "Clinical Medicine Handbook",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.611,
+    "review_count": 749
+  },
+  {
+    "id": "g-idg3IFLO1",
+    "name": "GPT Chat  Free Online",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.577,
+    "review_count": 78
+  },
+  {
+    "id": "g-STfuVrwJh",
+    "name": "Cooking|Nutrition|Recipes Food Generator Mimic AI",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.555,
+    "review_count": 670
+  },
+  {
+    "id": "g-kfkNLRrwD",
+    "name": "Grammar Checker",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.53,
+    "review_count": 593
+  },
+  {
+    "id": "g-KU2U5o7Wj",
+    "name": "Diet & Nutrition Expert",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.516,
+    "review_count": 1061
+  },
+  {
+    "id": "g-OA8uckJgl",
+    "name": "中文论文降重",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.476,
+    "review_count": 975
+  },
+  {
+    "id": "g-LseEzyEal",
+    "name": "Biology Bio",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.475,
+    "review_count": 746
+  },
+  {
+    "id": "g-ucpsGCQHZ",
+    "name": "Professor Synapse",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.455,
+    "review_count": 906
+  },
+  {
+    "id": "g-XESLWF1uQ",
+    "name": "Escape the Haunt",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.444,
+    "review_count": 4349
+  },
+  {
+    "id": "g-G5diVh12v",
+    "name": "ChatPRD - AI for Product Managers",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.42,
+    "review_count": 1734
+  },
+  {
+    "id": "g-z8ndHf0XJ",
+    "name": "知网降重",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.409,
+    "review_count": 1023
+  },
+  {
+    "id": "g-fD8SbTuan",
+    "name": "Tax & Taxes Specialist",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.392,
+    "review_count": 699
+  },
+  {
+    "id": "g-cTqsEOE4C",
+    "name": "SellMeThisPen",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.39,
+    "review_count": 451
+  },
+  {
+    "id": "g-CbdJhMyfi",
+    "name": "AWS Cloud Architect & developer",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.334,
+    "review_count": 1697
+  },
+  {
+    "id": "g-tmax0KyAo",
+    "name": "更勤奋更聪明的GPT-4o",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.331,
+    "review_count": 741
+  },
+  {
+    "id": "g-zzPVK21SG",
+    "name": "Interview & Career Coach💫",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.313,
+    "review_count": 705
+  },
+  {
+    "id": "g-yJ7kmo9Bo",
+    "name": "GPT 4",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.294,
+    "review_count": 622
+  },
+  {
+    "id": "g-xck3iENsZ",
+    "name": "LegalGPT",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.293,
+    "review_count": 745
+  },
+  {
+    "id": "g-adbSjT0zk",
+    "name": "Probability and Statistics Professor",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.292,
+    "review_count": 1533
+  },
+  {
+    "id": "g-xYRkZh2Ba",
+    "name": "YouTube Video Summarizer",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.288,
+    "review_count": 1603
+  },
+  {
+    "id": "g-LQ3c7maNd",
+    "name": "GPT Finder - Search Best のGPTs",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.277,
+    "review_count": 516
+  },
+  {
+    "id": "g-cEEXd8Dpb",
+    "name": "CK-12 Flexi",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.277,
+    "review_count": 400
+  },
+  {
+    "id": "g-aZLV4vji6",
+    "name": "Prompty",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.275,
+    "review_count": 357
+  },
+  {
+    "id": "g-9B2oA3PMW",
+    "name": "Music Teacher",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.271,
+    "review_count": 1186
+  },
+  {
+    "id": "g-LSP8OtF2T",
+    "name": "Legal GPT (Law & Contract)",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.264,
+    "review_count": 432
+  },
+  {
+    "id": "g-lijo49FhM",
+    "name": "ChatPDF",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.263,
+    "review_count": 495
+  },
+  {
+    "id": "g-Uz8I8oK3R",
+    "name": "Unity Helper",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.26,
+    "review_count": 1606
+  },
+  {
+    "id": "g-81BdggBV3",
+    "name": "Finance (Business Finance)",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.257,
+    "review_count": 2490
+  },
+  {
+    "id": "g-DWiGa6GjP",
+    "name": "更勤奋更聪明的GPT4 - 联网版（New Version）",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.253,
+    "review_count": 697
+  },
+  {
+    "id": "g-w2D4rqH0d",
+    "name": "React",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.248,
+    "review_count": 1485
+  },
+  {
+    "id": "g-jG3zp4wC2",
+    "name": "HOMEWORK (Math🔹Biology🔹Chem🔹Physics🔹English)",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.234,
+    "review_count": 359
+  },
+  {
+    "id": "g-RGr8YRENd",
+    "name": "Chart Gpt 3",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.231,
+    "review_count": 52
+  },
+  {
+    "id": "g-EKm3ohxDp",
+    "name": "Insta Monster",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.221,
+    "review_count": 113
+  },
+  {
+    "id": "g-bNiLAvz8R",
+    "name": "Prompt Engineering",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.22,
+    "review_count": 1237
+  },
+  {
+    "id": "g-tA54emB10",
+    "name": "SEO Content Writing Master",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.219,
+    "review_count": 169
+  },
+  {
+    "id": "g-mrfnRrjFT",
+    "name": "asif-claude",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.218,
+    "review_count": 55
+  },
+  {
+    "id": "g-cTSGLvxok",
+    "name": "Gauntlet: Movies",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.217,
+    "review_count": 3330
+  },
+  {
+    "id": "g-5wVuKfpEt",
+    "name": "Trading Assistant (Stocks/Crypto/Options) ✅",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.211,
+    "review_count": 1258
+  },
+  {
+    "id": "g-KNstzCSHA",
+    "name": "WebPilot",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.21,
+    "review_count": 1232
+  },
+  {
+    "id": "g-ILYW2qeAu",
+    "name": "Social Butterfly-AI 2.0",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.204,
+    "review_count": 2783
+  },
+  {
+    "id": "g-MfrgFELoU",
+    "name": "Instagram expert",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.2,
+    "review_count": 1313
+  },
+  {
+    "id": "g-UF8QlvSsU",
+    "name": "Research Paper Writing",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.199,
+    "review_count": 2372
+  },
+  {
+    "id": "g-5XtVuRE8Y",
+    "name": "Prompt Engineer",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.197,
+    "review_count": 2172
+  },
+  {
+    "id": "g-kZ59SXL9S",
+    "name": "Java Assistant",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.183,
+    "review_count": 776
+  },
+  {
+    "id": "g-Cg9f2YJTm",
+    "name": "CV & Resume ATS Optimize + 🔴Match-JOB🔴",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.177,
+    "review_count": 1304
+  },
+  {
+    "id": "g-bGsMgcyhx",
+    "name": "Video Maker GPT by Visla",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.177,
+    "review_count": 1550
+  },
+  {
+    "id": "g-L9NbS395h",
+    "name": "Swift Copilot",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.173,
+    "review_count": 776
+  },
+  {
+    "id": "g-f52QYAJK1",
+    "name": "Unreal Engine 5 Expert",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.173,
+    "review_count": 906
+  },
+  {
+    "id": "g-aWz3pQroP",
+    "name": "Undetectable AI Humanizer",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.172,
+    "review_count": 516
+  },
+  {
+    "id": "g-MPzLx3VuB",
+    "name": "Interview & Resume/CV - Job & Career Coach 🔥",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.17,
+    "review_count": 224
+  },
+  {
+    "id": "g-zni9uDCGq",
+    "name": "学术论文专家",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.168,
+    "review_count": 732
+  },
+  {
+    "id": "g-ThgKWoFRY",
+    "name": "PDF Summary",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.163,
+    "review_count": 2921
+  },
+  {
+    "id": "g-FBiHEhSQ0",
+    "name": "Suno AI V3 - Lyrics",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.162,
+    "review_count": 927
+  },
+  {
+    "id": "g-xyrbbmlRT",
+    "name": "Coding Code 👉🏼 Python Javascript React PHP SQL+",
+    "chats": 50000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.159,
+    "review_count": 1264
+  },
+  {
+    "id": "g-BkyrIDVUZ",
+    "name": "Calculus Calculator",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.124,
+    "review_count": 1494
+  },
+  {
+    "id": "g-1mzAswM3D",
+    "name": "Write Like A Human",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.105,
+    "review_count": 683
+  },
+  {
+    "id": "g-2OyX2ZiUk",
+    "name": "Math AI 🧮",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.096,
+    "review_count": 731
+  },
+  {
+    "id": "g-ntyRhBUID",
+    "name": "Data Analytics",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.051,
+    "review_count": 2831
+  },
+  {
+    "id": "g-tc4LXIjkx",
+    "name": "Accounting Specialist+",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.032,
+    "review_count": 283
+  },
+  {
+    "id": "g-TiBidpICQ",
+    "name": "Power BI Wizard",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.024,
+    "review_count": 1017
+  },
+  {
+    "id": "g-hYB5bT7ZL",
+    "name": "Viral Linkedin Post Formatter",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.001,
+    "review_count": 1638
+  },
+  {
+    "id": "g-cbNeVpiuC",
+    "name": "AI算命",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.949,
+    "review_count": 409
+  },
+  {
+    "id": "g-rkXHYcVrn",
+    "name": "Adzviser: Marketing & Ads Data Analytics",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.905,
+    "review_count": 189
+  },
+  {
+    "id": "g-Gm9cCA5qg",
+    "name": "What should I watch?",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.849,
+    "review_count": 219
+  },
+  {
+    "id": "g-1w6xd1o0W",
+    "name": "绘画大师｜画图｜超级Dalle+",
+    "chats": 50000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.819,
+    "review_count": 927
+  },
+  {
+    "id": "g-FvojGs7rD",
+    "name": "Stock Robo 🤖  AI Stock Analyst",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.807,
+    "review_count": 1352
+  },
+  {
+    "id": "g-DTk1KpYjg",
+    "name": "PDF Translator - for Sale",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.764,
+    "review_count": 2919
+  },
+  {
+    "id": "g-urS90fvFC",
+    "name": "Master ACG (Anime, Comics/Manga, Game)",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.747,
+    "review_count": 233
+  },
+  {
+    "id": "g-PfRVnCUcU",
+    "name": "超级写作（Super Writing ）",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.741,
+    "review_count": 27
+  },
+  {
+    "id": "g-s3FfLKPBo",
+    "name": "GPT Detector | Ai Detector | Ai Checker",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.673,
+    "review_count": 900
+  },
+  {
+    "id": "g-P6MdNuLzH",
+    "name": "GPT Finder",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.638,
+    "review_count": 315
+  },
+  {
+    "id": "g-59EzD5Ehz",
+    "name": "Gerador de Imagens (IA que cria Imagens)",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.623,
+    "review_count": 456
+  },
+  {
+    "id": "g-sMWHIuCfv",
+    "name": "Power Point",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.614,
+    "review_count": 1096
+  },
+  {
+    "id": "g-EGs2bp4NT",
+    "name": "Job - AI Job Search Copilot",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.598,
+    "review_count": 371
+  },
+  {
+    "id": "g-kMKw5tFmB",
+    "name": "Convert Anything",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.587,
+    "review_count": 652
+  },
+  {
+    "id": "g-mlCY3phIA",
+    "name": "Docs GPT",
+    "chats": 50000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.522,
+    "review_count": 136
+  },
+  {
+    "id": "g-wETMBcESv",
+    "name": "OCR",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.513,
+    "review_count": 1158
+  },
+  {
+    "id": "g-KpF6lTka3",
+    "name": "AllTrails",
+    "chats": 50000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.476,
+    "review_count": 271
+  },
+  {
+    "id": "g-fnPpt4WcB",
+    "name": "image creator",
+    "chats": 50000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.426,
+    "review_count": 1759
+  },
+  {
+    "id": "g-tvADFu1PW",
+    "name": "Generador de Imágenes",
+    "chats": 50000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.287,
+    "review_count": 616
+  },
+  {
+    "id": "g-Nbl9sevUu",
+    "name": "产业链分析专家0306",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 5,
+    "review_count": 2
+  },
+  {
+    "id": "g-iLRgDXhkB",
+    "name": "Prompt Mestre 2.0",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.715,
+    "review_count": 698
+  },
+  {
+    "id": "g-2V6ReKejF",
+    "name": "Bible",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.663,
+    "review_count": 575
+  },
+  {
+    "id": "g-RS9NM7Ypw",
+    "name": "Stock Keyworder v2",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.624,
+    "review_count": 298
+  },
+  {
+    "id": "g-elRZlGQcX",
+    "name": "PMI Infinity - PMP Exam Simulator",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.606,
+    "review_count": 965
+  },
+  {
+    "id": "g-1NzegXwoM",
+    "name": "Cooking & Recipes",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.604,
+    "review_count": 412
+  },
+  {
+    "id": "g-N9P2PpspO",
+    "name": "Psychology Professor",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.582,
+    "review_count": 785
+  },
+  {
+    "id": "g-hhh4w3eov",
+    "name": "Prompt Maker",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.576,
+    "review_count": 373
+  },
+  {
+    "id": "g-jzyVE3qaS",
+    "name": "The Master of Insight: Intellectual.AI ✨",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.556,
+    "review_count": 36
+  },
+  {
+    "id": "g-0g6ZdEtv6",
+    "name": "Language Coach",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.555,
+    "review_count": 319
+  },
+  {
+    "id": "g-wwudLgiTo",
+    "name": "Practice English Conversation - (Voice)",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.552,
+    "review_count": 687
+  },
+  {
+    "id": "g-LDICowG2o",
+    "name": "IELTS Speaking - English & Language Learning",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.539,
+    "review_count": 375
+  },
+  {
+    "id": "g-77fz8bwiJ",
+    "name": "Essay Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.529,
+    "review_count": 1684
+  },
+  {
+    "id": "g-9J7c9f4Bh",
+    "name": "Philosophy Sage",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.517,
+    "review_count": 919
+  },
+  {
+    "id": "g-HTsfg2w2z",
+    "name": "Arcanum Cyber Security Bot",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.513,
+    "review_count": 546
+  },
+  {
+    "id": "g-fdWXvBO59",
+    "name": "History",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.497,
+    "review_count": 800
+  },
+  {
+    "id": "g-oUDg9DXvV",
+    "name": "My English Dictionary",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.496,
+    "review_count": 852
+  },
+  {
+    "id": "g-9XNJExaEK",
+    "name": "AI for Medical Students",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.495,
+    "review_count": 586
+  },
+  {
+    "id": "g-6WZpFnXna",
+    "name": "IELTS Writing - English & Language Learning",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.493,
+    "review_count": 473
+  },
+  {
+    "id": "g-rehimLUp7",
+    "name": "English Learning",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.487,
+    "review_count": 519
+  },
+  {
+    "id": "g-IPhekPbYD",
+    "name": "Etsy SEO Expert",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.468,
+    "review_count": 594
+  },
+  {
+    "id": "g-M4QhFgclv",
+    "name": "Job",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.467,
+    "review_count": 92
+  },
+  {
+    "id": "g-xx7FJpizE",
+    "name": "GPT Auth",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.46,
+    "review_count": 902
+  },
+  {
+    "id": "g-B7m98jiyn",
+    "name": "Business Plan Builder",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.443,
+    "review_count": 1725
+  },
+  {
+    "id": "g-QgiQ408Af",
+    "name": "Azure Architect",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.435,
+    "review_count": 593
+  },
+  {
+    "id": "g-ZMY0isxnu",
+    "name": "Chat with Website",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.434,
+    "review_count": 884
+  },
+  {
+    "id": "g-AaCO9ep8Y",
+    "name": "Linux Specialist",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.433,
+    "review_count": 1088
+  },
+  {
+    "id": "g-6j3I06TF3",
+    "name": "IB GPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.428,
+    "review_count": 402
+  },
+  {
+    "id": "g-t3BUYjh4C",
+    "name": "Health & Medicine",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.425,
+    "review_count": 789
+  },
+  {
+    "id": "g-BqHYgCshL",
+    "name": "100% Yoast SEO Optimized Blog Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.422,
+    "review_count": 677
+  },
+  {
+    "id": "g-CqSxj3cSa",
+    "name": "SEO BlogGPT - 100% SEO Optimized Blog Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.414,
+    "review_count": 960
+  },
+  {
+    "id": "g-hUcEmp6Rp",
+    "name": "Project Manager Buddy - Project Management  🤹",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.406,
+    "review_count": 1137
+  },
+  {
+    "id": "g-YMTYaHUGy",
+    "name": "Merlin, the Job Application Wizard 1.2.5",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.402,
+    "review_count": 686
+  },
+  {
+    "id": "g-UeuwMhSxS",
+    "name": "Surreal - izer",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.4,
+    "review_count": 10
+  },
+  {
+    "id": "g-JDunTEjFl",
+    "name": "Novel Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.396,
+    "review_count": 903
+  },
+  {
+    "id": "g-ldMROHWp6",
+    "name": "GPT Paraphrasing Tool",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.391,
+    "review_count": 169
+  },
+  {
+    "id": "g-vZ7SgKBOh",
+    "name": "Framework Finder",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.389,
+    "review_count": 2377
+  },
+  {
+    "id": "g-HKpDuDZ2h",
+    "name": "Sales & Email Coach",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.389,
+    "review_count": 624
+  },
+  {
+    "id": "g-VwEcTiTDT",
+    "name": "Tarot Reader",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.373,
+    "review_count": 335
+  },
+  {
+    "id": "g-CcaheG8KE",
+    "name": "Creative Writing",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.36,
+    "review_count": 895
+  },
+  {
+    "id": "g-POb5UhhJ6",
+    "name": "AutoGPT Agent",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.359,
+    "review_count": 772
+  },
+  {
+    "id": "g-Wq8UBQZSq",
+    "name": "Ecommerce SEO Product Description Listing Write AI",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.358,
+    "review_count": 826
+  },
+  {
+    "id": "g-ktb6xHktn",
+    "name": "Write For Me Pro",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.356,
+    "review_count": 553
+  },
+  {
+    "id": "g-qa5VGNSEr",
+    "name": "SEO Optimized Blog Writer and Analyzer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.356,
+    "review_count": 306
+  },
+  {
+    "id": "g-kox62b9Hu",
+    "name": "CybGPT - Cyber Security - Cybersecurity",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.348,
+    "review_count": 617
+  },
+  {
+    "id": "g-GHq4vRrgH",
+    "name": "Interview Pro",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.345,
+    "review_count": 55
+  },
+  {
+    "id": "g-RsXSmoHyb",
+    "name": "Study+ Homework Helper",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.345,
+    "review_count": 458
+  },
+  {
+    "id": "g-dfcHBtJQR",
+    "name": "Question Maker",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.345,
+    "review_count": 1408
+  },
+  {
+    "id": "g-yP7nvstO8",
+    "name": "Story",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.341,
+    "review_count": 926
+  },
+  {
+    "id": "g-SRYxzqvwR",
+    "name": "Legal+",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.339,
+    "review_count": 1136
+  },
+  {
+    "id": "g-3CHGVIKGD",
+    "name": "Video Script Writer",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.337,
+    "review_count": 1470
+  },
+  {
+    "id": "g-IfDuadRaA",
+    "name": "Law",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.336,
+    "review_count": 1071
+  },
+  {
+    "id": "g-U9tAgRwbZ",
+    "name": "Diet Help - Nutrition Expert",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.332,
+    "review_count": 307
+  },
+  {
+    "id": "g-qm6FQXJU4",
+    "name": "Shorts & Reels Assistant",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.332,
+    "review_count": 509
+  },
+  {
+    "id": "g-SmxfTyCnC",
+    "name": ".NET Copilot",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.331,
+    "review_count": 411
+  },
+  {
+    "id": "g-xMTYfDbb4",
+    "name": "Article Writer GPT",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.325,
+    "review_count": 541
+  },
+  {
+    "id": "g-npJGITwMd",
+    "name": "Digital Marketing [Updated]",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.324,
+    "review_count": 426
+  },
+  {
+    "id": "g-agCdZedbZ",
+    "name": "AI GPT",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.323,
+    "review_count": 229
+  },
+  {
+    "id": "g-LCO79N7QT",
+    "name": "Django Copilot",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.322,
+    "review_count": 886
+  },
+  {
+    "id": "g-R5MDYfBQV",
+    "name": "Macro Economics Expert",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.322,
+    "review_count": 852
+  },
+  {
+    "id": "g-Qf60vcWcr",
+    "name": "Income Stream Surfer's SEO Content Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.317,
+    "review_count": 199
+  },
+  {
+    "id": "g-zBmYKQcoO",
+    "name": "结构化提示词工程师v4.0",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.315,
+    "review_count": 73
+  },
+  {
+    "id": "g-83WLsJXge",
+    "name": "のYouTube SEO Wizard",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.313,
+    "review_count": 932
+  },
+  {
+    "id": "g-SozXnHbVm",
+    "name": "YouTube Shorts 대본 만들기",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.311,
+    "review_count": 392
+  },
+  {
+    "id": "g-iedyANQtM",
+    "name": "R and R Studio Tutor",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.31,
+    "review_count": 1376
+  },
+  {
+    "id": "g-Zr8z65jea",
+    "name": "Data Analysis - SPSS",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.307,
+    "review_count": 1094
+  },
+  {
+    "id": "g-jd2p3UfVx",
+    "name": "MediSearch",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.299,
+    "review_count": 117
+  },
+  {
+    "id": "g-hiVeyDDpv",
+    "name": "Resume Builder",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.293,
+    "review_count": 533
+  },
+  {
+    "id": "g-Dg6JD5xnu",
+    "name": "Photo Math AI Solver",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.291,
+    "review_count": 158
+  },
+  {
+    "id": "g-ZIKzMmQAA",
+    "name": "Landing Page Creator from HubSpot",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.288,
+    "review_count": 3462
+  },
+  {
+    "id": "g-5TTDLtKr6",
+    "name": "Paper Digest",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.287,
+    "review_count": 1190
+  },
+  {
+    "id": "g-uzP6yydf4",
+    "name": "超级图像生成",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.286,
+    "review_count": 7
+  },
+  {
+    "id": "g-bcOg2GHrh",
+    "name": "Go Golang",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.285,
+    "review_count": 571
+  },
+  {
+    "id": "g-ERKZdxC6D",
+    "name": "Automation Consultant by Zapier",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.284,
+    "review_count": 479
+  },
+  {
+    "id": "g-xGT2QvWZv",
+    "name": "POD Buddy",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.283,
+    "review_count": 304
+  },
+  {
+    "id": "g-ovhlxUSlY",
+    "name": "Ruby on Rails",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.28,
+    "review_count": 214
+  },
+  {
+    "id": "g-tmV0BcUVI",
+    "name": "Midjourney Prompter",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.279,
+    "review_count": 641
+  },
+  {
+    "id": "g-hBxWK2G2N",
+    "name": "GPT Chat Nederlands",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.276,
+    "review_count": 123
+  },
+  {
+    "id": "g-kP4KR5N87",
+    "name": "Suno音乐歌词创作专家v3.8",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.275,
+    "review_count": 269
+  },
+  {
+    "id": "g-H73sLSP2I",
+    "name": "Social Media",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.275,
+    "review_count": 1113
+  },
+  {
+    "id": "g-Zo3fmsCJP",
+    "name": "Social Media Manager|Content Creator Generator-AI",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.272,
+    "review_count": 993
+  },
+  {
+    "id": "g-WbeCJbcUC",
+    "name": "Docker Expert",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.27,
+    "review_count": 812
+  },
+  {
+    "id": "g-hrIG1aPE5",
+    "name": "易经占卜师(Divination with I Ching周易)",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.264,
+    "review_count": 201
+  },
+  {
+    "id": "g-FwjLmXklT",
+    "name": "Leonardo AI Prompt Maker",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.263,
+    "review_count": 426
+  },
+  {
+    "id": "g-ZcHiHNtc5",
+    "name": "Chinese BaZi Fortune Teller (参天八字算命, 精准排盘解读)",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.261,
+    "review_count": 658
+  },
+  {
+    "id": "g-aOD4U2jkL",
+    "name": "Salesforce Sidekick",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.26,
+    "review_count": 503
+  },
+  {
+    "id": "g-BahnEMrJ0",
+    "name": "WordPress Wizard",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.259,
+    "review_count": 1019
+  },
+  {
+    "id": "g-3GmVMbWRV",
+    "name": "Java",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.258,
+    "review_count": 907
+  },
+  {
+    "id": "g-lVbzhyr6X",
+    "name": "PowerShell Experts",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.258,
+    "review_count": 667
+  },
+  {
+    "id": "g-wkzpyfRp2",
+    "name": "论文助手",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.257,
+    "review_count": 436
+  },
+  {
+    "id": "g-KfhLWQxTI",
+    "name": "SEO Assist | SEO GPT | SEO CORE AI",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.253,
+    "review_count": 872
+  },
+  {
+    "id": "g-GbgD6IAkB",
+    "name": "Humanizador de Textos IA",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.247,
+    "review_count": 77
+  },
+  {
+    "id": "g-kInvm7TFe",
+    "name": "Android Dev Assist",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.245,
+    "review_count": 591
+  },
+  {
+    "id": "g-RlxGWrXEy",
+    "name": "Mathematical statistics",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.24,
+    "review_count": 859
+  },
+  {
+    "id": "g-GDLcaFXil",
+    "name": "Matlab Tutor",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.239,
+    "review_count": 745
+  },
+  {
+    "id": "g-8Hpsk6WE2",
+    "name": "Scholar AI GPT: MixerBox Scholar",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.235,
+    "review_count": 528
+  },
+  {
+    "id": "g-4S7zjQ7PH",
+    "name": "LaTeX Transformer",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.23,
+    "review_count": 1262
+  },
+  {
+    "id": "g-A9u8haC92",
+    "name": "GPT Chat 3 5",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.23,
+    "review_count": 61
+  },
+  {
+    "id": "g-Yqey5fkGs",
+    "name": "Ελληνικά GPT",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.229,
+    "review_count": 166
+  },
+  {
+    "id": "g-pR3pPQfFY",
+    "name": "Data Science",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.218,
+    "review_count": 1447
+  },
+  {
+    "id": "g-kCvtQ1CRl",
+    "name": "Tax Assistant",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.208,
+    "review_count": 303
+  },
+  {
+    "id": "g-lnTXc3PgP",
+    "name": "DevOps GPT",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.207,
+    "review_count": 585
+  },
+  {
+    "id": "g-O5mNWQGMa",
+    "name": "Market Research and Competitive Analysis GPT",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.206,
+    "review_count": 1034
+  },
+  {
+    "id": "g-zmY8GKub6",
+    "name": "Python Copilot",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.205,
+    "review_count": 132
+  },
+  {
+    "id": "g-V9flHctZB",
+    "name": "Vue Copilot",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.197,
+    "review_count": 614
+  },
+  {
+    "id": "g-IFKF9lqXm",
+    "name": "📝네이버 블로그 SEO 상위1프로가 대신 써드려요",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.196,
+    "review_count": 327
+  },
+  {
+    "id": "g-Lojyl6VuC",
+    "name": "WebG by MixerBox (WebSearchG AI GPT)",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.195,
+    "review_count": 282
+  },
+  {
+    "id": "g-Odno5va2u",
+    "name": "Master Interview",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.191,
+    "review_count": 236
+  },
+  {
+    "id": "g-izfY9J70Q",
+    "name": "Javascript",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.188,
+    "review_count": 1008
+  },
+  {
+    "id": "g-eMro4Yn0p",
+    "name": "Academic Researcher",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.187,
+    "review_count": 1004
+  },
+  {
+    "id": "g-BCeU61TOF",
+    "name": "Literature Review",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.183,
+    "review_count": 808
+  },
+  {
+    "id": "g-xUsBarC1Z",
+    "name": "Academic Writting",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.178,
+    "review_count": 1418
+  },
+  {
+    "id": "g-7yQUi7gNL",
+    "name": "Resume Builder",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.169,
+    "review_count": 177
+  },
+  {
+    "id": "g-pWbYqrykB",
+    "name": "Rust",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.168,
+    "review_count": 546
+  },
+  {
+    "id": "g-geVkN87vv",
+    "name": "Coding Expert",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.162,
+    "review_count": 826
+  },
+  {
+    "id": "g-c8gepo95x",
+    "name": "Arduino Maestro",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.158,
+    "review_count": 746
+  },
+  {
+    "id": "g-xVk9Vv6Op",
+    "name": "GPT Finder 👉🏼 Best +68.000 GPT Search",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.153,
+    "review_count": 118
+  },
+  {
+    "id": "g-cbFYVrEhD",
+    "name": "PHP Engineer",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.153,
+    "review_count": 889
+  },
+  {
+    "id": "g-Y2LJdbTJl",
+    "name": "Swift Developer",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.152,
+    "review_count": 341
+  },
+  {
+    "id": "g-bVXa00zjq",
+    "name": "Trip Planner ✈️🏖️🌄",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.151,
+    "review_count": 471
+  },
+  {
+    "id": "g-GxN3a0Auf",
+    "name": "Genie - Your Excel VBA Expert",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.14,
+    "review_count": 976
+  },
+  {
+    "id": "g-RW6Z5D1s8",
+    "name": "HIX Scholar",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.14,
+    "review_count": 100
+  },
+  {
+    "id": "g-loOLX12QO",
+    "name": "React Expert",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.138,
+    "review_count": 672
+  },
+  {
+    "id": "g-S6xbpS6eq",
+    "name": "Face Swap Master by Mojju",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.136,
+    "review_count": 331
+  },
+  {
+    "id": "g-xOwzBjKMY",
+    "name": "BrowsingGPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.126,
+    "review_count": 95
+  },
+  {
+    "id": "g-NYhJtOQup",
+    "name": "Code Faster",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.125,
+    "review_count": 8
+  },
+  {
+    "id": "g-SjAqAvLPM",
+    "name": "Tailwind CSS",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.116,
+    "review_count": 666
+  },
+  {
+    "id": "g-tV2UYbLy3",
+    "name": "Profile Enhancer",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.115,
+    "review_count": 867
+  },
+  {
+    "id": "g-YgkKaPZNm",
+    "name": "Academic Research Reviewer",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.111,
+    "review_count": 531
+  },
+  {
+    "id": "g-DCQ5huDwt",
+    "name": "Music Maestro",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.109,
+    "review_count": 477
+  },
+  {
+    "id": "g-JAJLWqe6L",
+    "name": "GPT használata magyarul",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.103,
+    "review_count": 78
+  },
+  {
+    "id": "g-6MlHy4WPo",
+    "name": "ロMidjourney V6 - Photorealistic Image Prompts",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.101,
+    "review_count": 396
+  },
+  {
+    "id": "g-fJoSu03co",
+    "name": "论文写作助手",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.1,
+    "review_count": 440
+  },
+  {
+    "id": "g-iWeTcmxdr",
+    "name": "小红书写作专家-爆文版",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.091,
+    "review_count": 220
+  },
+  {
+    "id": "g-fAgI6VGij",
+    "name": "Frontend Developer",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.085,
+    "review_count": 680
+  },
+  {
+    "id": "g-exXl4W9Fp",
+    "name": "React-Native + Expo Assistant",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.083,
+    "review_count": 469
+  },
+  {
+    "id": "g-twUGxmpHv",
+    "name": "Visual Weather Artist GPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.083,
+    "review_count": 36
+  },
+  {
+    "id": "g-dZyKGS17d",
+    "name": "PDF AI",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.08,
+    "review_count": 1388
+  },
+  {
+    "id": "g-U80yiDX6F",
+    "name": "Angular",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.072,
+    "review_count": 626
+  },
+  {
+    "id": "g-qUIiudCdc",
+    "name": "Advanced Data Analysis",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.072,
+    "review_count": 1562
+  },
+  {
+    "id": "g-7GcvZVVaZ",
+    "name": "Programming Genius",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.067,
+    "review_count": 609
+  },
+  {
+    "id": "g-BAB7FyHQG",
+    "name": "Research Papers",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.065,
+    "review_count": 939
+  },
+  {
+    "id": "g-bGZB56si7",
+    "name": "BettingPros AI - Sports Betting",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.056,
+    "review_count": 390
+  },
+  {
+    "id": "g-q0vptUtWa",
+    "name": "CatGPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.055,
+    "review_count": 128
+  },
+  {
+    "id": "g-PLpKntcCz",
+    "name": "MathGPT",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.052,
+    "review_count": 173
+  },
+  {
+    "id": "g-870r1buu6",
+    "name": "Scraper",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.045,
+    "review_count": 1452
+  },
+  {
+    "id": "g-NcgzdHmZc",
+    "name": "AI Content Detector",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.045,
+    "review_count": 220
+  },
+  {
+    "id": "g-SObeuI1cl",
+    "name": "Dating Coach",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.045,
+    "review_count": 198
+  },
+  {
+    "id": "g-TA4k9P4Qw",
+    "name": "Professional Coder (Auto programming) 👉 Improved",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.039,
+    "review_count": 787
+  },
+  {
+    "id": "g-nHO8NDB3W",
+    "name": "Flowchart Generator",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.039,
+    "review_count": 675
+  },
+  {
+    "id": "g-C12Cr1MIz",
+    "name": "SwiftUI GPT",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.032,
+    "review_count": 313
+  },
+  {
+    "id": "g-HUe3xQK7h",
+    "name": "God of Linear Algebra",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.029,
+    "review_count": 930
+  },
+  {
+    "id": "g-i9TsPdTRx",
+    "name": "HTML CSS Builder",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.021,
+    "review_count": 1456
+  },
+  {
+    "id": "g-MbKNhN3QX",
+    "name": "日本語 GPT",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.005,
+    "review_count": 627
+  },
+  {
+    "id": "g-KkxbQAVuk",
+    "name": "PlaylistAI - Music Playlist Maker",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.002,
+    "review_count": 1009
+  },
+  {
+    "id": "g-BpY33oQT7",
+    "name": "Electric and Electronic Circuits Tutor",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.998,
+    "review_count": 582
+  },
+  {
+    "id": "g-5uKZEh1up",
+    "name": "Modern Next.js Assistant",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.995,
+    "review_count": 415
+  },
+  {
+    "id": "g-wzCQWPdaA",
+    "name": "Professional LinkedIn Post Writer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.994,
+    "review_count": 679
+  },
+  {
+    "id": "g-BcMTH3IRg",
+    "name": "Scholar",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.992,
+    "review_count": 259
+  },
+  {
+    "id": "g-rHIns3c8t",
+    "name": "Citation and Reference Finder",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.99,
+    "review_count": 915
+  },
+  {
+    "id": "g-2UDwEVSaD",
+    "name": "Homeworkify",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 3.989,
+    "review_count": 189
+  },
+  {
+    "id": "g-R6cdCJuQL",
+    "name": "超级论文辅助（Super Academic Paper Assistance）",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.983,
+    "review_count": 121
+  },
+  {
+    "id": "g-5Sa97n3el",
+    "name": "中文 GPT",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.983,
+    "review_count": 235
+  },
+  {
+    "id": "g-ATOVBEOSz",
+    "name": "WebPilot GPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 3.971,
+    "review_count": 683
+  },
+  {
+    "id": "g-bIPAVgyEz",
+    "name": "Google Ads Virtual Assistant",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.97,
+    "review_count": 265
+  },
+  {
+    "id": "g-TmmNmNcnZ",
+    "name": "BypassGPT: Bypass AI Detection",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.956,
+    "review_count": 160
+  },
+  {
+    "id": "g-flgCdvoVQ",
+    "name": "Thumbnail Maker - 4.0 ★",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.945,
+    "review_count": 957
+  },
+  {
+    "id": "g-n5En7TcoK",
+    "name": "The Stata GPT",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.945,
+    "review_count": 889
+  },
+  {
+    "id": "g-uz4ZuYnts",
+    "name": "GPT4  - No Web Browsing",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 3.929,
+    "review_count": 14
+  },
+  {
+    "id": "g-aQ2BRJZTV",
+    "name": "UX Design Mentor",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.927,
+    "review_count": 1271
+  },
+  {
+    "id": "g-4h9g9N0si",
+    "name": "Finance",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.926,
+    "review_count": 732
+  },
+  {
+    "id": "g-rZ2w3hTcJ",
+    "name": "Humanize AI text",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.924,
+    "review_count": 368
+  },
+  {
+    "id": "g-AtI7SyQY2",
+    "name": "Research+",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.916,
+    "review_count": 895
+  },
+  {
+    "id": "g-WXg3fZkJ5",
+    "name": "Bypass ZeroGPT & GPTZero",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.914,
+    "review_count": 429
+  },
+  {
+    "id": "g-yrmgGXq6p",
+    "name": "简历匠心1.5",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.901,
+    "review_count": 222
+  },
+  {
+    "id": "g-PNdA4W4tm",
+    "name": "Excel Maestro",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.885,
+    "review_count": 741
+  },
+  {
+    "id": "g-FIhD2bkA1",
+    "name": "Link in Bio Creator 😎 Personal Page in 2 min",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.856,
+    "review_count": 360
+  },
+  {
+    "id": "g-oMWKb23Xy",
+    "name": "Italiano GPT",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.852,
+    "review_count": 115
+  },
+  {
+    "id": "g-oorRczbw9",
+    "name": "Excel Pro",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.839,
+    "review_count": 963
+  },
+  {
+    "id": "g-76OfIUJeh",
+    "name": "Gooogle Search",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.836,
+    "review_count": 578
+  },
+  {
+    "id": "g-Q3tXlmp0T",
+    "name": "Image to Text to Image",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.828,
+    "review_count": 979
+  },
+  {
+    "id": "g-Cj5xSCJRx",
+    "name": "LINE Sticker Creator ver4o",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.824,
+    "review_count": 489
+  },
+  {
+    "id": "g-6OY2MiFIB",
+    "name": "Powerpoint Maker",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.817,
+    "review_count": 787
+  },
+  {
+    "id": "g-gL3QuOpjr",
+    "name": "Music Prompter",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.812,
+    "review_count": 516
+  },
+  {
+    "id": "g-LfCwKcXqb",
+    "name": "Internet Browser Pro",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.809,
+    "review_count": 591
+  },
+  {
+    "id": "g-sQRNqxNFX",
+    "name": "Code Interpreter",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.797,
+    "review_count": 745
+  },
+  {
+    "id": "g-jSqTyHBbh",
+    "name": "ChatCody - GitHub, GitLab Assistant",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.795,
+    "review_count": 1026
+  },
+  {
+    "id": "g-hznWIfF1v",
+    "name": "Slides & Presentation: PowerPoints & PPT",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.782,
+    "review_count": 591
+  },
+  {
+    "id": "g-cs3yuZdPx",
+    "name": "DALL +",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.776,
+    "review_count": 729
+  },
+  {
+    "id": "g-xOu1udAy0",
+    "name": "Graph Maker",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.768,
+    "review_count": 1072
+  },
+  {
+    "id": "g-t5qXRDnIw",
+    "name": "Realistic Image Crafter",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.768,
+    "review_count": 587
+  },
+  {
+    "id": "g-JUPludygA",
+    "name": "Home Style Advisor",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.768,
+    "review_count": 466
+  },
+  {
+    "id": "g-WntJvzThh",
+    "name": "SEO",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.741,
+    "review_count": 347
+  },
+  {
+    "id": "g-XxQgZLxX9",
+    "name": "Consistent Image Generator",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.711,
+    "review_count": 436
+  },
+  {
+    "id": "g-iLoR8U3iA",
+    "name": "DALL · E3",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.698,
+    "review_count": 946
+  },
+  {
+    "id": "g-mMk82EkTz",
+    "name": "Animation Creation",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.692,
+    "review_count": 403
+  },
+  {
+    "id": "g-2H5LQ7oHr",
+    "name": "Resume",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.683,
+    "review_count": 400
+  },
+  {
+    "id": "g-o2PXItdme",
+    "name": "Photoshop",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.683,
+    "review_count": 221
+  },
+  {
+    "id": "g-MJM52gB3D",
+    "name": "Video GPT",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.679,
+    "review_count": 442
+  },
+  {
+    "id": "g-uib6qYHGw",
+    "name": "Tradingview PineScript V5+ Creator",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 3.677,
+    "review_count": 809
+  },
+  {
+    "id": "g-ruZSEkBsB",
+    "name": "Coloring Pages - Free Coloring Page Generator",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.67,
+    "review_count": 200
+  },
+  {
+    "id": "g-ReiZ29H4I",
+    "name": "Slide Generator",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.657,
+    "review_count": 248
+  },
+  {
+    "id": "g-ifP7V7mmC",
+    "name": "Plagiarism Checker",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.656,
+    "review_count": 294
+  },
+  {
+    "id": "g-rCajQrvhP",
+    "name": "AI Diagram Designer: Smart Mind Map & Chart Maker",
+    "chats": 25000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 3.654,
+    "review_count": 725
+  },
+  {
+    "id": "g-SnF78wo4p",
+    "name": "Artful Greeting AI Cards",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.64,
+    "review_count": 514
+  },
+  {
+    "id": "g-t11nuTlg3",
+    "name": "Tattoo Ideas GPT",
+    "chats": 25000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 3.634,
+    "review_count": 279
+  },
+  {
+    "id": "g-jAXSkQEmH",
+    "name": "Photo Realistic",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.626,
+    "review_count": 1009
+  },
+  {
+    "id": "g-4x7KgqVIy",
+    "name": "Word",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.598,
+    "review_count": 1397
+  },
+  {
+    "id": "g-DyD8EnqEc",
+    "name": "Smart Slides",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.592,
+    "review_count": 996
+  },
+  {
+    "id": "g-jIR96GHdl",
+    "name": "Free Ai Image Generator | Free Ai Art Generator",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.59,
+    "review_count": 178
+  },
+  {
+    "id": "g-ihJfmYAJn",
+    "name": "Gantt Chart GPT",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.582,
+    "review_count": 558
+  },
+  {
+    "id": "g-XLibUCa3f",
+    "name": "AI Drawing Image Generator🔥",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.555,
+    "review_count": 732
+  },
+  {
+    "id": "g-apTaTPT9v",
+    "name": "AI 그림 그리기 - 이미지 복원 / 통합 / 편집 / 스타일 변경",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.536,
+    "review_count": 694
+  },
+  {
+    "id": "g-Ia01zULym",
+    "name": "Converter 👉🏼 Convert Anything",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.517,
+    "review_count": 143
+  },
+  {
+    "id": "g-4ohyS9OlJ",
+    "name": "Presentation Creator: Slides, PowerPoints",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.513,
+    "review_count": 431
+  },
+  {
+    "id": "g-nPanZDwQ5",
+    "name": "スーパーロゴデザイナ「ロゴ作る君」",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.461,
+    "review_count": 855
+  },
+  {
+    "id": "g-EAmxqEfbz",
+    "name": "AI picture generator",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.438,
+    "review_count": 1397
+  },
+  {
+    "id": "g-AnfMn0gbM",
+    "name": "UI UX Designer",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.431,
+    "review_count": 692
+  },
+  {
+    "id": "g-Mc4XM2MQP",
+    "name": "Logo Maker",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.425,
+    "review_count": 978
+  },
+  {
+    "id": "g-kD2LQB0RB",
+    "name": "Music Generator ⭐️ ⭐️ ⭐️ ⭐️ ⭐️",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 3.414,
+    "review_count": 345
+  },
+  {
+    "id": "g-JkTMfj3Pq",
+    "name": "Image Generator",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.412,
+    "review_count": 1033
+  },
+  {
+    "id": "g-5Qx0mOEND",
+    "name": "Diagram Genius",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.4,
+    "review_count": 836
+  },
+  {
+    "id": "g-acmX3t9d1",
+    "name": "Spreadsheet Maker: Excel, CSV, Spreadsheet",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.4,
+    "review_count": 807
+  },
+  {
+    "id": "g-8hwRf54qt",
+    "name": "Icon Generator",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.399,
+    "review_count": 1140
+  },
+  {
+    "id": "g-UI2PO58N2",
+    "name": "日本語版 画像生成GPT",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 3.364,
+    "review_count": 605
+  },
+  {
+    "id": "g-8OcWVLenu",
+    "name": "Calendar GPT",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.355,
+    "review_count": 169
+  },
+  {
+    "id": "g-xohKVXSls",
+    "name": "画图版",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.338,
+    "review_count": 213
+  },
+  {
+    "id": "g-9i7ARxKhj",
+    "name": "LOGO Ai",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 3.311,
+    "review_count": 463
+  },
+  {
+    "id": "g-4fGuYnJC6",
+    "name": "Presentation GPT by SlideSpeak",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.268,
+    "review_count": 235
+  },
+  {
+    "id": "g-Mt4cy0Ih2",
+    "name": "PPT Generator",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 3.256,
+    "review_count": 923
+  },
+  {
+    "id": "g-0n6gMPOX1",
+    "name": "Interior Designer",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.246,
+    "review_count": 1254
+  },
+  {
+    "id": "g-zkmwoZhIm",
+    "name": "Video GPT record",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.217,
+    "review_count": 958
+  },
+  {
+    "id": "g-mq7WVFJHa",
+    "name": "图片生成器",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.161,
+    "review_count": 473
+  },
+  {
+    "id": "g-AlmIewepW",
+    "name": "이미지 생성기",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 3.136,
+    "review_count": 641
+  },
+  {
+    "id": "g-lPeUc0axE",
+    "name": "Graphic Designer",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.101,
+    "review_count": 1664
+  },
+  {
+    "id": "g-gbjSvXu6i",
+    "name": "Gif-PT",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 2.873,
+    "review_count": 157
+  },
+  {
+    "id": "g-uG8COVuC0",
+    "name": "Whisper Transcriber",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 2.727,
+    "review_count": 337
+  },
+  {
+    "id": "g-R4H9Al3sl",
+    "name": "Voice Over Generator",
+    "chats": 25000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 2.685,
+    "review_count": 143
+  },
+  {
+    "id": "g-zsuNU37qg",
+    "name": "Image Editor",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 2.633,
+    "review_count": 998
+  },
+  {
+    "id": "g-WXEhiLIoP",
+    "name": "Image Editor",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 2.556,
+    "review_count": 358
+  },
+  {
+    "id": "g-bMmLnu453",
+    "name": "photo editor",
+    "chats": 25000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 1.938,
+    "review_count": 645
+  },
+  {
+    "id": "g-uFPcmNxFC",
+    "name": "Obituary Generator",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 5,
+    "review_count": 1
+  },
+  {
+    "id": "g-8KhgtEd1j",
+    "name": "Easy Sports Appraiser",
+    "chats": 10000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 5,
+    "review_count": 7
+  },
+  {
+    "id": "g-9OMqeokGD",
+    "name": "고양이 화가 🐱",
+    "chats": 10000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.833,
+    "review_count": 6
+  },
+  {
+    "id": "g-0XxT0SGIS",
+    "name": "Mr. Ranedeer Config Wizard",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.812,
+    "review_count": 867
+  },
+  {
+    "id": "g-YPTrO2I1T",
+    "name": "Ohho AI Stock MJ Prompt v1",
+    "chats": 10000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.755,
+    "review_count": 163
+  },
+  {
+    "id": "g-7AnO8rnLg",
+    "name": "Describe this photo!",
+    "chats": 10000,
+    "categories": [],
+    "review_average": 4.75,
+    "review_count": 4
+  },
+  {
+    "id": "g-Ws5caTAjx",
+    "name": "2how MJ Prompt V2",
+    "chats": 10000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.735,
+    "review_count": 185
+  },
+  {
+    "id": "g-Ms1Xj7J0L",
+    "name": "Calorie tracker",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.705,
+    "review_count": 190
+  },
+  {
+    "id": "g-Tvq4B2tas",
+    "name": "AI Beauty Assistant (Skincare Expert,Care Advisor)",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.688,
+    "review_count": 189
+  },
+  {
+    "id": "g-h2UR4Yt3J",
+    "name": "Kai Friend & Companion [Voice Write Photo Video]",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.684,
+    "review_count": 95
+  },
+  {
+    "id": "g-OPnOOzjib",
+    "name": "devin",
+    "chats": 10000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.673,
+    "review_count": 49
+  },
+  {
+    "id": "g-h0GNwHfzB",
+    "name": "Transcript Thief",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.67,
+    "review_count": 103
+  },
+  {
+    "id": "g-WwTuqBMgi",
+    "name": "Contract, Agreement, Law (Not a Lawyer)",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.667,
+    "review_count": 84
+  },
+  {
+    "id": "g-9mKcBwCyA",
+    "name": "ALBERTO / BETÃO",
+    "chats": 10000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.667,
+    "review_count": 69
+  },
+  {
+    "id": "g-RexGWBmOv",
+    "name": "GPT Chat Hrvatski",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.643,
+    "review_count": 28
+  },
+  {
+    "id": "g-iatp3w4XS",
+    "name": "Cursed Technique and Domain Expansion Creator",
+    "chats": 10000,
+    "categories": [],
+    "review_average": 4.643,
+    "review_count": 28
+  },
+  {
+    "id": "g-HejNUzj8l",
+    "name": "Translate Chinese to Academic English 科研论文中翻英",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.635,
+    "review_count": 252
+  },
+  {
+    "id": "g-1C31tpBWa",
+    "name": "Islam Quran and Hadith Assistant (Early Access)",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.633,
+    "review_count": 270
+  },
+  {
+    "id": "g-9P3sIn487",
+    "name": "Financial Statement Analyzer",
+    "chats": 10000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.621,
+    "review_count": 617
+  },
+  {
+    "id": "g-K9cvBzhba",
+    "name": "DoctorGPT",
+    "chats": 10000,
+    "categories": [],
+    "review_average": 4.62,
+    "review_count": 263
+  },
+  {
+    "id": "g-NE1lwXfzQ",
+    "name": "She Knows Alt Text",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.617,
+    "review_count": 264
+  },
+  {
+    "id": "g-ITuP4SqVK",
+    "name": "Longform Blog Cyborg",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.606,
+    "review_count": 269
+  },
+  {
+    "id": "g-OnvOgWFAk",
+    "name": "Math Tutor Eureka",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.603,
+    "review_count": 126
+  },
+  {
+    "id": "g-Ov0FnjsOG",
+    "name": "Correcteur Orthographe",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.599,
+    "review_count": 157
+  },
+  {
+    "id": "g-wTkuWAfpD",
+    "name": "Math Solver",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.596,
+    "review_count": 94
+  },
+  {
+    "id": "g-qmHgSbmzJ",
+    "name": "C++ (Cpp)",
+    "chats": 10000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.595,
+    "review_count": 116
+  },
+  {
+    "id": "g-YueQQZTFy",
+    "name": "Stock Keyworder +",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.595,
+    "review_count": 74
+  },
+  {
+    "id": "g-ht4rIeTEH",
+    "name": "Colorbot | Your Personal Color Analysis",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.588,
+    "review_count": 85
+  },
+  {
+    "id": "g-cXqlyOP6m",
+    "name": "Image to text (image2text)",
+    "chats": 10000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 4.585,
+    "review_count": 164
+  },
+  {
+    "id": "g-ycRAJcQwV",
+    "name": "Dream Interpreter",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.582,
+    "review_count": 249
+  },
+  {
+    "id": "g-KBP4JBRaQ",
+    "name": "Spanish Teacher",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.578,
+    "review_count": 431
+  },
+  {
+    "id": "g-prR5hdsQU",
+    "name": "French Teacher",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.576,
+    "review_count": 245
+  },
+  {
+    "id": "g-HZOCIptut",
+    "name": "Wine Sommelier",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.574,
+    "review_count": 317
+  },
+  {
+    "id": "g-yuqfzDHAA",
+    "name": "Chat Open A I Gpt 3",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.571,
+    "review_count": 28
+  },
+  {
+    "id": "g-k4lvLz4AU",
+    "name": "SEO",
+    "chats": 10000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.571,
+    "review_count": 7
+  },
+  {
+    "id": "g-H93fevKeK",
+    "name": "Executive func",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.571,
+    "review_count": 105
+  },
+  {
+    "id": "g-gac0xLAbv",
+    "name": "Chinese 智译",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.565,
+    "review_count": 124
+  },
+  {
+    "id": "g-wK6ZXW0wa",
+    "name": "War Room",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.562,
+    "review_count": 249
+  },
+  {
+    "id": "g-8F8CR1D2b",
+    "name": "Mystic Tarot Reader",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.562,
+    "review_count": 178
+  },
+  {
+    "id": "g-dcnXYVD5S",
+    "name": "Solo RPG Master Game",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.556,
+    "review_count": 792
+  },
+  {
+    "id": "g-WZjelkFDn",
+    "name": "Academic Translator (to English)",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.554,
+    "review_count": 370
+  },
+  {
+    "id": "g-MEwhzzbks",
+    "name": "Super Synapse ✨",
+    "chats": 10000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.548,
+    "review_count": 248
+  },
+  {
+    "id": "g-yp3mn74U5",
+    "name": "论文降重",
+    "chats": 10000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.547,
+    "review_count": 499
+  },
+  {
+    "id": "g-9g9xChYvq",
+    "name": "Image to Text Extractor",
+    "chats": 10000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.544,
+    "review_count": 344
+  },
+  {
+    "id": "g-7WesQBaZy",
+    "name": "GPT Doctor",
+    "chats": 10000,
+    "categories": [],
+    "review_average": 4.543,
+    "review_count": 208
+  },
+  {
+    "id": "g-eJAdcyCpY",
+    "name": "Lovely Toy Creator",
+    "chats": 10000,
+    "categories": [
+      "lifestyle"
+    ],
+    "review_average": 4.541,
+    "review_count": 109
+  },
+  {
+    "id": "g-L0K89qdOe",
+    "name": "생기부(학생부)작성 도움[과세특, 창체, 진로, 동아리, 행특, 행발 등 보고서 입력]",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.541,
+    "review_count": 122
+  },
+  {
+    "id": "g-N9d6Prmjs",
+    "name": "提示精灵小富贵（Prompt Pet）",
+    "chats": 10000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.54,
+    "review_count": 113
+  },
+  {
+    "id": "g-accUnvK9I",
+    "name": "🔎 El Detective de Anuncios",
+    "chats": 10000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.532,
+    "review_count": 205
+  },
+  {
+    "id": "g-q4sx3N7nG",
+    "name": "IBgrad",
+    "chats": 10000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.526,
+    "review_count": 173
+  },
+  {
+    "id": "g-UnsZtrAEY",
+    "name": "Dungeon Master Ultimate Assistant",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.524,
+    "review_count": 536
+  },
+  {
+    "id": "g-yS2Gnv6aS",
+    "name": "のSora Official Guidance Expert",
+    "chats": 10000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.523,
+    "review_count": 88
+  }
+]
