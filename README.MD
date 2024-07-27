@@ -1,7 +1,13 @@
 # Top 500 Best GPTs on the GPT Store
 
   This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
-  
+
+  <p align="center">
+    <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
+      <img alt="GPTsHunter" src="https://i.v2ex.co/Y6u0hDa6.jpeg">
+    </a>
+  </p>
+
   <p align="center">
   ★ Powered by <a target="_blank" href="https://www.gptshunter.com/?utm_source=top-500-best-gpts">GPTsHunter.com</a> ★
   </p>
