@@ -34,7 +34,7 @@ const ensureDirectoryExists = (directoryPath) => {
 
   <p align="center">
     <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
-      <img alt="GPTsHunter" src="https://i.v2ex.co/Y6u0hDa6.jpeg">
+      <img alt="302.ai" src="https://i.v2ex.co/3DxcE7R7.png">
     </a>
   </p>
   
