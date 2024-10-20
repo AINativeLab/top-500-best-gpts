@@ -1,24 +1,4 @@
-# Top 500 Best GPTs on the GPT Store
-
-  This project daily scrapes and archives data from the official GPT Store. If you have other data requirements, please open an issue.
-
-  <p align="center">
-    <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
-      <img alt="302.ai" src="https://i.v2ex.co/s98m8xKF.png">
-    </a>
-  </p>
-  
-  <p align="center">
-  ★ Powered by <a target="_blank" href="https://www.gptshunter.com/?utm_source=top-500-best-gpts">GPTsHunter.com</a> ★
-  </p>
-  
-  <p align="center">
-    <a target="_blank" href="https://gptshunter.com/?utm_source=top-500-best-gpts">
-      <img alt="GPTsHunter" src="https://gptshunter.com/full-logo.svg" width="300">
-    </a>
-  </p>
-  
-## Top 500 Best GPTs Ranked by conversations(2024-10-20)
+# Top 500 Best GPTs Ranked by conversations(2024-10-20)
 
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="Consensus" src="https://files.oaiusercontent.com/file-IheK6ysqIDeahH0p0fJRGsDo?se=2124-04-28T18%3A17%3A51Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddefault-profile.png&sig=bHefKZbsxP2EYBzCeIRhAtBzOkVydZLO1zyQuUUa6PI%3D"/>](https://chat.openai.com/g/g-bo0FiWLY7?ref=gptshunter)
 
