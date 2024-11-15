@@ -34,7 +34,7 @@ const ensureDirectoryExists = (directoryPath) => {
 
   <p align="center">
     <a target="_blank" href="https://302.ai/?ref=gptshunter&block=github">
-      <img alt="302.ai" src="https://i.v2ex.co/s98m8xKF.png">
+      <img alt="302.ai" src="https://assets.gptshunt.com/github-1500%C3%97400-en.jpg">
     </a>
   </p>
   
@@ -60,7 +60,7 @@ ${list.rows
       return `
 [<img align="left" height="48px" width="48px" style="border-radius:50%" alt="${
         one.name
-      }" src="${one.logo}"/>](https://chat.openai.com/g/${one.id}?ref=gptshunter)
+      }" src="https://api-1.gptshunter.com/api/v1/image/proxy?url=${encodeURIComponent(one.logo)}"/>](https://chat.openai.com/g/${one.id}?ref=gptshunter)
 
 [**${one.name}**](https://chat.openai.com/g/${one.id}?ref=gptshunter) \\
 No.${index + 1} ${one.chats ? '/' : ''} ${formater.format(one.chats)} ${one.review_average ? '/ ★' : ''} ${one.review_average ? (one.review_average * 1).toFixed(1) : ''}
