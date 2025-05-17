@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@libsql/client": "^0.4.3",
+    "@libsql/client": "^0.15.6",
     "dayjs": "^1.11.10"
   }
 }
