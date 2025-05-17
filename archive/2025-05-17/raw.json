@@ -330,6 +330,16 @@
     "review_count": 1567
   },
   {
+    "id": "g-eERuw2Wsg",
+    "name": "GPT Chat Gratis",
+    "chats": 1000000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.253,
+    "review_count": 565
+  },
+  {
     "id": "g-WP1diWHRl",
     "name": "math",
     "chats": 1000000,
@@ -526,8 +536,8 @@
     "categories": [
       "writing"
     ],
-    "review_average": 4.578,
-    "review_count": 2095
+    "review_average": 4.579,
+    "review_count": 2103
   },
   {
     "id": "g-Jv4qOKRF5",
@@ -1118,6 +1128,16 @@
     "review_count": 6192
   },
   {
+    "id": "g-BRLYA5dqq",
+    "name": "ChartGPT - Data Analysis, Charts, Graphs",
+    "chats": 300000,
+    "categories": [
+      "productivity"
+    ],
+    "review_average": 4.23,
+    "review_count": 692
+  },
+  {
     "id": "g-NcgzdHmZc",
     "name": "AI Content Detector",
     "chats": 300000,
@@ -1136,6 +1156,16 @@
     ],
     "review_average": 4.106,
     "review_count": 4415
+  },
+  {
+    "id": "g-iLoR8U3iA",
+    "name": "DALL · E3",
+    "chats": 300000,
+    "categories": [
+      "dalle"
+    ],
+    "review_average": 3.604,
+    "review_count": 9336
   },
   {
     "id": "g-AlmIewepW",
@@ -1220,8 +1250,8 @@
     "name": "Correcteur d'orthographe et de grammaire",
     "chats": 200000,
     "categories": [],
-    "review_average": 4.442,
-    "review_count": 294
+    "review_average": 4.444,
+    "review_count": 295
   },
   {
     "id": "g-j4PQ2hyqn",
@@ -2226,8 +2256,8 @@
     "categories": [
       "dalle"
     ],
-    "review_average": 3.121,
-    "review_count": 6639
+    "review_average": 3.116,
+    "review_count": 6694
   },
   {
     "id": "g-JoDS4Ncdi",
@@ -2266,6 +2296,16 @@
     ],
     "review_average": 4.763,
     "review_count": 232
+  },
+  {
+    "id": "g-ayFcj2RgG",
+    "name": "Grammar Checker",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.75,
+    "review_count": 48
   },
   {
     "id": "g-epwRgQMQd",
@@ -2344,6 +2384,16 @@
     ],
     "review_average": 4.634,
     "review_count": 980
+  },
+  {
+    "id": "g-FmpWpbNpd",
+    "name": "Free Grammar Checker",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.625,
+    "review_count": 48
   },
   {
     "id": "g-jbc0VW15a",
@@ -2464,6 +2514,16 @@
     "review_count": 407
   },
   {
+    "id": "g-KvWP1Yrmv",
+    "name": "Grammar & Spelling (US English)",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.475,
+    "review_count": 183
+  },
+  {
     "id": "g-I4v73KM26",
     "name": "Japanese Teacher",
     "chats": 50000,
@@ -2552,6 +2612,16 @@
     ],
     "review_average": 4.438,
     "review_count": 1045
+  },
+  {
+    "id": "g-2DNF8ArXs",
+    "name": "Grade your IELTS Speaking",
+    "chats": 50000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.431,
+    "review_count": 167
   },
   {
     "id": "g-y2KnRe0w4",
@@ -3122,6 +3192,16 @@
     "review_count": 33
   },
   {
+    "id": "g-nI4wOOWNf",
+    "name": "文章校正くん",
+    "chats": 50000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.152,
+    "review_count": 290
+  },
+  {
     "id": "g-bhOvRzYzI",
     "name": "10W+爆款小红书",
     "chats": 50000,
@@ -3298,6 +3378,16 @@
     ],
     "review_average": 4.021,
     "review_count": 97
+  },
+  {
+    "id": "g-6QL1nYCiQ",
+    "name": "Data Visualizer  👉 Graphs 👉 Charts",
+    "chats": 50000,
+    "categories": [
+      "research"
+    ],
+    "review_average": 4.013,
+    "review_count": 1937
   },
   {
     "id": "g-HJB4A5Kkw",
@@ -3912,6 +4002,16 @@
     "review_count": 549
   },
   {
+    "id": "g-azn19VWNs",
+    "name": "Assessoria Cível 1º Grau",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.566,
+    "review_count": 159
+  },
+  {
     "id": "g-Pey1IuSCR",
     "name": "EPB, OPB, Dec, Award Writer - Air Force",
     "chats": 25000,
@@ -4010,6 +4110,16 @@
     "review_count": 793
   },
   {
+    "id": "g-jzhjMHVI0",
+    "name": "Grammar and Spelling Optimizer",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.519,
+    "review_count": 187
+  },
+  {
     "id": "g-aBXubkf1B",
     "name": "Expert IT System Admin",
     "chats": 25000,
@@ -4066,6 +4176,34 @@
     "categories": [],
     "review_average": 4.489,
     "review_count": 92
+  },
+  {
+    "id": "g-nXOfbMcUL",
+    "name": "Assessoria Cível  2º Grau",
+    "chats": 25000,
+    "categories": [
+      "other"
+    ],
+    "review_average": 4.488,
+    "review_count": 123
+  },
+  {
+    "id": "g-tTySeN8Fi",
+    "name": "Grade My Essay",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.481,
+    "review_count": 349
+  },
+  {
+    "id": "g-iVqPfmeRt",
+    "name": "Corretor gramatical e ortográfico de minutas 4.0",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.48,
+    "review_count": 98
   },
   {
     "id": "g-0DWGiIZBg",
@@ -4390,6 +4528,14 @@
     "review_count": 143
   },
   {
+    "id": "g-OhYgHl2bY",
+    "name": "Rechtschreibung & Grammatik",
+    "chats": 25000,
+    "categories": [],
+    "review_average": 4.403,
+    "review_count": 243
+  },
+  {
     "id": "g-kppFpccF9",
     "name": "PRODUCT PAGE GENERATOR | Amazon Listing SEO Writer",
     "chats": 25000,
@@ -4508,6 +4654,16 @@
     "review_count": 734
   },
   {
+    "id": "g-OZuujotMX",
+    "name": "Grammar Checker",
+    "chats": 25000,
+    "categories": [
+      "writing"
+    ],
+    "review_average": 4.375,
+    "review_count": 88
+  },
+  {
     "id": "g-jUF4ZLVGm",
     "name": "Amazon Commerce Expert | A-commerce Advisor",
     "chats": 25000,
@@ -4588,6 +4744,16 @@
     "review_count": 460
   },
   {
+    "id": "g-OJsblSrDq",
+    "name": "GrammarlyGO",
+    "chats": 25000,
+    "categories": [
+      "education"
+    ],
+    "review_average": 4.359,
+    "review_count": 245
+  },
+  {
     "id": "g-RsXSmoHyb",
     "name": "Study+ Homework Helper",
     "chats": 25000,
@@ -4656,6 +4822,16 @@
     "review_count": 339
   },
   {
+    "id": "g-zBmYKQcoO",
+    "name": "结构化提示词工程师v4.0",
+    "chats": 25000,
+    "categories": [
+      "programming"
+    ],
+    "review_average": 4.33,
+    "review_count": 88
+  },
+  {
     "id": "g-gVxyJ5gHO",
     "name": "Winning Proposal GPT",
     "chats": 25000,
@@ -4722,181 +4898,5 @@
     ],
     "review_average": 4.309,
     "review_count": 298
-  },
-  {
-    "id": "g-NDtBnpcr8",
-    "name": "ENEM Redação Helper",
-    "chats": 25000,
-    "categories": [
-      "education"
-    ],
-    "review_average": 4.306,
-    "review_count": 36
-  },
-  {
-    "id": "g-m3BR1oFya",
-    "name": "Teacher Bot",
-    "chats": 25000,
-    "categories": [],
-    "review_average": 4.306,
-    "review_count": 281
-  },
-  {
-    "id": "g-fetheHd6f",
-    "name": "公文笔杆子",
-    "chats": 25000,
-    "categories": [
-      "writing"
-    ],
-    "review_average": 4.294,
-    "review_count": 333
-  },
-  {
-    "id": "g-Wih24h3gv",
-    "name": "Demon Slayer Creator",
-    "chats": 25000,
-    "categories": [
-      "dalle"
-    ],
-    "review_average": 4.292,
-    "review_count": 24
-  },
-  {
-    "id": "g-4i0H41Sdh",
-    "name": "Landing Page Structure GPT",
-    "chats": 25000,
-    "categories": [
-      "productivity"
-    ],
-    "review_average": 4.287,
-    "review_count": 663
-  },
-  {
-    "id": "g-MJPOvUTeL",
-    "name": "SEO 마법사 - 네이버 블로그 SEO 최적화 포스팅 (워드프레스, 티스토리, 구글)",
-    "chats": 25000,
-    "categories": [
-      "writing"
-    ],
-    "review_average": 4.28,
-    "review_count": 550
-  },
-  {
-    "id": "g-jd2p3UfVx",
-    "name": "MediSearch",
-    "chats": 25000,
-    "categories": [
-      "lifestyle"
-    ],
-    "review_average": 4.278,
-    "review_count": 169
-  },
-  {
-    "id": "g-zW2mhfZCk",
-    "name": "Pyspark Data Engineer",
-    "chats": 25000,
-    "categories": [
-      "programming"
-    ],
-    "review_average": 4.275,
-    "review_count": 455
-  },
-  {
-    "id": "g-aVP62L5EX",
-    "name": "PowerShell",
-    "chats": 25000,
-    "categories": [
-      "programming"
-    ],
-    "review_average": 4.271,
-    "review_count": 660
-  },
-  {
-    "id": "g-hBb8iIFDc",
-    "name": "Qualitative Research Data Analysis",
-    "chats": 25000,
-    "categories": [
-      "research"
-    ],
-    "review_average": 4.269,
-    "review_count": 1664
-  },
-  {
-    "id": "g-C7a88QZNK",
-    "name": "Economics + Math 📊",
-    "chats": 25000,
-    "categories": [
-      "research"
-    ],
-    "review_average": 4.259,
-    "review_count": 545
-  },
-  {
-    "id": "g-Nd8T0aWmn",
-    "name": "Game Builder AI",
-    "chats": 25000,
-    "categories": [
-      "programming"
-    ],
-    "review_average": 4.256,
-    "review_count": 679
-  },
-  {
-    "id": "g-1slAcF3Lw",
-    "name": "Handful of Fortune – Upload a picture of your hand",
-    "chats": 25000,
-    "categories": [
-      "lifestyle"
-    ],
-    "review_average": 4.254,
-    "review_count": 63
-  },
-  {
-    "id": "g-cAiKH9eWH",
-    "name": "Economics Expert GPT",
-    "chats": 25000,
-    "categories": [
-      "other"
-    ],
-    "review_average": 4.253,
-    "review_count": 616
-  },
-  {
-    "id": "g-rNIZzTk3G",
-    "name": "The Drupal Droid",
-    "chats": 25000,
-    "categories": [
-      "other"
-    ],
-    "review_average": 4.247,
-    "review_count": 194
-  },
-  {
-    "id": "g-onbkPJ2Lg",
-    "name": "AI Anime Character Creator & Story Generator （アニメ）",
-    "chats": 25000,
-    "categories": [
-      "lifestyle"
-    ],
-    "review_average": 4.246,
-    "review_count": 268
-  },
-  {
-    "id": "g-fJRu5KY2O",
-    "name": "Tạo Ảnh Minh Họa Video Chất Lượng Cao",
-    "chats": 25000,
-    "categories": [
-      "other"
-    ],
-    "review_average": 4.242,
-    "review_count": 66
-  },
-  {
-    "id": "g-wkzpyfRp2",
-    "name": "论文助手",
-    "chats": 25000,
-    "categories": [],
-    "review_average": 4.241,
-    "review_count": 593
   }
 ]
